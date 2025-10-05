@@ -6,7 +6,7 @@
   <link href="https://yu-blog.top/atom.xml" rel="self"/>
   
   <link href="https://yu-blog.top/"/>
-  <updated>2025-10-05T13:36:15.672Z</updated>
+  <updated>2025-10-05T15:38:01.848Z</updated>
   <id>https://yu-blog.top/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Welcome to Yu&#39;s Tech Blog!</title>
+    <link href="https://yu-blog.top/undefined/"/>
+    <id>https://yu-blog.top/undefined/</id>
+    <published>2025-10-05T16:20:00.000Z</published>
+    <updated>2025-10-05T15:38:01.848Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Hello and welcome to my tech blog! 🎉&lt;/p&gt;
+&lt;h2 id=&quot;A-Warm-Welcome&quot;&gt;&lt;a href=&quot;#A-Warm-Welcome&quot; class=&quot;headerlink&quot; title=&quot;A Warm Welcome&quot;&gt;&lt;/a&gt;A Warm Welcome&lt;/h2&gt;&lt;p&gt;I’m thrilled to have you here on my digital journey through the world of web development and programming. This is &lt;strong&gt;Yu’s Tech Blog&lt;/strong&gt; - a space where I share my learning experiences, coding adventures, and technical discoveries as a passionate 17-year-old developer.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="General" scheme="https://yu-blog.top/categories/General/"/>
+    
+    
+    <category term="welcome" scheme="https://yu-blog.top/tags/welcome/"/>
+    
+    <category term="introduction" scheme="https://yu-blog.top/tags/introduction/"/>
+    
+    <category term="tech blog" scheme="https://yu-blog.top/tags/tech-blog/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
