@@ -6,7 +6,7 @@
   <link href="https://yu-blog.top/atom.xml" rel="self"/>
   
   <link href="https://yu-blog.top/"/>
-  <updated>2025-10-06T00:00:00.000Z</updated>
+  <updated>2025-10-06T15:52:01.356Z</updated>
   <id>https://yu-blog.top/</id>
   
   <author>
@@ -15,6 +15,55 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Installing Software</title>
+    <link href="https://yu-blog.top/10422/"/>
+    <id>https://yu-blog.top/10422/</id>
+    <published>2025-10-06T15:33:46.000Z</published>
+    <updated>2025-10-06T15:52:01.356Z</updated>
+    
+    
+    <summary type="html">Installation guide for Node.js, Git, Hexo and other development environments: step-by-step tutorial to set up your blog writing foundation.</summary>
+    
+    
+    
+    <category term="Blog" scheme="https://yu-blog.top/categories/Blog/"/>
+    
+    <category term="Tutorial" scheme="https://yu-blog.top/categories/Blog/Tutorial/"/>
+    
+    
+    <category term="Tutorial" scheme="https://yu-blog.top/tags/Tutorial/"/>
+    
+    <category term="Hexo" scheme="https://yu-blog.top/tags/Hexo/"/>
+    
+    <category term="Comments" scheme="https://yu-blog.top/tags/Comments/"/>
+    
+    <category term="Blog" scheme="https://yu-blog.top/tags/Blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Website Construction Process</title>
+    <link href="https://yu-blog.top/49874/"/>
+    <id>https://yu-blog.top/49874/</id>
+    <published>2025-10-06T14:57:29.000Z</published>
+    <updated>2025-10-06T15:51:52.218Z</updated>
+    
+    
+    <summary type="html">Building a personal blog from scratch: domain, hosting, and construction process fully documented, witnessing the birth of a little digital home.
+</summary>
+    
+    
+    
+    <category term="Blog Tutorial" scheme="https://yu-blog.top/categories/Blog-Tutorial/"/>
+    
+    
+    <category term="Tutorial" scheme="https://yu-blog.top/tags/Tutorial/"/>
+    
+    <category term="Blog Setup" scheme="https://yu-blog.top/tags/Blog-Setup/"/>
+    
+  </entry>
   
   <entry>
     <title>The Origin and Blessings of the Mid-Autumn Festival</title>
@@ -54,13 +103,13 @@
     
     
     
+    <category term="Tutorial" scheme="https://yu-blog.top/tags/Tutorial/"/>
+    
     <category term="Hexo" scheme="https://yu-blog.top/tags/Hexo/"/>
     
     <category term="GitHub" scheme="https://yu-blog.top/tags/GitHub/"/>
     
     <category term="Deployment" scheme="https://yu-blog.top/tags/Deployment/"/>
-    
-    <category term="Tutorial" scheme="https://yu-blog.top/tags/Tutorial/"/>
     
   </entry>
   

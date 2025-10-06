@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Celebrating National Day — Together for Our Motherland</title>
-    <url>/91327/</url>
-    <content><![CDATA[<h1 id="The-Splendor-of-the-Land-and-the-Joy-of-Celebration-—-Written-on-the-Eve-of-National-Day-🎉🇨🇳"><a href="#The-Splendor-of-the-Land-and-the-Joy-of-Celebration-—-Written-on-the-Eve-of-National-Day-🎉🇨🇳" class="headerlink" title="The Splendor of the Land and the Joy of Celebration — Written on the Eve of National Day 🎉🇨🇳"></a>The Splendor of the Land and the Joy of Celebration — Written on the Eve of National Day 🎉🇨🇳</h1><p>As autumn breezes sweep across the vast land of China and the morning glow paints the mountains in red, we once again welcome a meaningful moment — <strong>October 1st, National Day</strong>, the birthday of the People’s Republic of China.  </p>
-<p>On this day, no special ceremony is needed — the feeling of patriotism quietly rises in every heart. Look around: on the bustling city streets, the <strong>Five-Star Red Flags</strong> wave proudly under the golden sun; in peaceful villages, crimson flags flutter above smoke curling from chimneys — humble but heartfelt signs of joy. Shop windows glow with “China Red” decorations, children wave little flags, and social media overflows with “I love you, China.” These small yet heartwarming moments come together to form the ritual beauty of this festival, turning “National Day” from a date on the calendar into a shared emotional memory for every Chinese person.  </p>
-<p>We often say that National Day is more than a holiday — it is a mirror that lets us <strong>look back at history</strong>. It reminds us of the solemn declaration over 70 years ago: <em>“The Central People’s Government of the People’s Republic of China is established!”</em> It recalls generations of hard work and perseverance that carried the nation from poverty to prosperity. At the same time, it is also a <strong>beacon of the future</strong>, reminding us that today’s peace and comfort are built upon the sweat and dedication of countless people — and that the journey toward a better tomorrow continues with our shared efforts.  </p>
-<p>On this glorious and hopeful day, there is so much to say from the heart:  </p>
-<ul>
-<li><strong>Gratitude to our Motherland</strong>, whose strength provides us a safe and stable home. From border defense to daily life, from technological breakthroughs to social progress — it is the steady rise of our nation that gives us the confidence to stand tall in the world and pursue happiness fearlessly.  </li>
-<li><strong>Gratitude for everyday life</strong>, where beauty hides in simplicity — a warm breakfast at dawn, a cozy dinner with family, the convenience of travel, a peaceful walk in the park. These small joys are threads in the fabric of happiness, reminding us that “when the country prospers, the people thrive.”  </li>
-<li><strong>Hope for growing with our nation</strong> — though we may be ordinary individuals in our roles, every bit of hard work, every act of kindness, every moment of diligence contributes to the nation’s progress. May we all paint our own stories on the canvas of our era, walking alongside our country toward a brighter future.</li>
+    <title>Website Construction Process</title>
+    <url>/49874/</url>
+    <content><![CDATA[<p>🤔 For my first blog post, I want to write about my website construction process, hoping to provide some inspiration for others who want to build their own sites.</p>
+<span id="more"></span>
+
+<h1 id="Prerequisites"><a href="#Prerequisites" class="headerlink" title="Prerequisites"></a>Prerequisites</h1><ul>
+<li>A computer with internet connection</li>
+<li>A GitHub account (I logged in directly with my Google account)</li>
+<li>A pair of nimble hands</li>
+<li>A smart little brain O(∩_∩)O</li>
 </ul>
-<p>Finally, let us offer our sincerest blessings — to our beloved country, and to everyone striving for a better life:  </p>
-<p>🎆 <strong>May our Motherland remain splendid and prosperous for generations to come. May you have a joyful and peaceful National Day filled with happiness and strength!</strong> 🎆</p>
+<h1 id="Installing-Software"><a href="#Installing-Software" class="headerlink" title="Installing Software"></a>Installing Software</h1><p><a href="https://blog.yusite.top/10422/">Installing Software</a></p>
+<h1 id="Deploying-Blog-with-Hexo-GitHub-Pages"><a href="#Deploying-Blog-with-Hexo-GitHub-Pages" class="headerlink" title="Deploying Blog with Hexo + GitHub Pages"></a>Deploying Blog with Hexo + GitHub Pages</h1><p><a href="https://blog.yusite.top/65417/">Deploying Blog with Hexo + GitHub Pages</a></p>
+<h1 id="Writing-and-Publishing-Your-First-Blog-Post-to-GitHub-Pages-with-Hexo"><a href="#Writing-and-Publishing-Your-First-Blog-Post-to-GitHub-Pages-with-Hexo" class="headerlink" title="Writing and Publishing Your First Blog Post to GitHub Pages with Hexo"></a>Writing and Publishing Your First Blog Post to GitHub Pages with Hexo</h1><p><a href="https://blog.yusite.top/28146/">Writing and Publishing Your First Blog Post to GitHub Pages with Hexo</a></p>
 ]]></content>
       <categories>
-        <category>Essay</category>
+        <category>Blog Tutorial</category>
       </categories>
       <tags>
-        <tag>National Day</tag>
-        <tag>Festival</tag>
+        <tag>Tutorial</tag>
+        <tag>Blog Setup</tag>
       </tags>
   </entry>
   <entry>
@@ -51,6 +52,78 @@
         <tag>Chinese Festival</tag>
         <tag>Moon Culture</tag>
         <tag>Reunion</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Celebrating National Day — Together for Our Motherland</title>
+    <url>/91327/</url>
+    <content><![CDATA[<h1 id="The-Splendor-of-the-Land-and-the-Joy-of-Celebration-—-Written-on-the-Eve-of-National-Day-🎉🇨🇳"><a href="#The-Splendor-of-the-Land-and-the-Joy-of-Celebration-—-Written-on-the-Eve-of-National-Day-🎉🇨🇳" class="headerlink" title="The Splendor of the Land and the Joy of Celebration — Written on the Eve of National Day 🎉🇨🇳"></a>The Splendor of the Land and the Joy of Celebration — Written on the Eve of National Day 🎉🇨🇳</h1><p>As autumn breezes sweep across the vast land of China and the morning glow paints the mountains in red, we once again welcome a meaningful moment — <strong>October 1st, National Day</strong>, the birthday of the People’s Republic of China.  </p>
+<p>On this day, no special ceremony is needed — the feeling of patriotism quietly rises in every heart. Look around: on the bustling city streets, the <strong>Five-Star Red Flags</strong> wave proudly under the golden sun; in peaceful villages, crimson flags flutter above smoke curling from chimneys — humble but heartfelt signs of joy. Shop windows glow with “China Red” decorations, children wave little flags, and social media overflows with “I love you, China.” These small yet heartwarming moments come together to form the ritual beauty of this festival, turning “National Day” from a date on the calendar into a shared emotional memory for every Chinese person.  </p>
+<p>We often say that National Day is more than a holiday — it is a mirror that lets us <strong>look back at history</strong>. It reminds us of the solemn declaration over 70 years ago: <em>“The Central People’s Government of the People’s Republic of China is established!”</em> It recalls generations of hard work and perseverance that carried the nation from poverty to prosperity. At the same time, it is also a <strong>beacon of the future</strong>, reminding us that today’s peace and comfort are built upon the sweat and dedication of countless people — and that the journey toward a better tomorrow continues with our shared efforts.  </p>
+<p>On this glorious and hopeful day, there is so much to say from the heart:  </p>
+<ul>
+<li><strong>Gratitude to our Motherland</strong>, whose strength provides us a safe and stable home. From border defense to daily life, from technological breakthroughs to social progress — it is the steady rise of our nation that gives us the confidence to stand tall in the world and pursue happiness fearlessly.  </li>
+<li><strong>Gratitude for everyday life</strong>, where beauty hides in simplicity — a warm breakfast at dawn, a cozy dinner with family, the convenience of travel, a peaceful walk in the park. These small joys are threads in the fabric of happiness, reminding us that “when the country prospers, the people thrive.”  </li>
+<li><strong>Hope for growing with our nation</strong> — though we may be ordinary individuals in our roles, every bit of hard work, every act of kindness, every moment of diligence contributes to the nation’s progress. May we all paint our own stories on the canvas of our era, walking alongside our country toward a brighter future.</li>
+</ul>
+<p>Finally, let us offer our sincerest blessings — to our beloved country, and to everyone striving for a better life:  </p>
+<p>🎆 <strong>May our Motherland remain splendid and prosperous for generations to come. May you have a joyful and peaceful National Day filled with happiness and strength!</strong> 🎆</p>
+]]></content>
+      <categories>
+        <category>Essay</category>
+      </categories>
+      <tags>
+        <tag>National Day</tag>
+        <tag>Festival</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Writing and Publishing Your First Blog with Hexo on GitHub Pages</title>
+    <url>/32784/</url>
+    <content><![CDATA[<p>In the previous article, we completed the basic setup of <strong>Hexo</strong> and successfully deployed the site to <strong>GitHub Pages</strong>. Today, let’s write your first blog post and publish it online.</p>
+<h2 id="1-Create-a-New-Post"><a href="#1-Create-a-New-Post" class="headerlink" title="1. Create a New Post"></a>1. Create a New Post</h2><p>Run the following command in your Hexo project root directory:</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new post <span class="string">&quot;My First Blog&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>This will generate a Markdown file under <code>source/_posts/</code> named <code>My First Blog.md</code>.</p>
+<p>You can open it with your favorite editor (such as VS Code) and start writing:</p>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: My First Blog</span><br><span class="line">date: 2025-09-21 12:00:00</span><br><span class="line"><span class="section">tags: [Essay, Hexo]</span></span><br><span class="line"><span class="section">---</span></span><br><span class="line"></span><br><span class="line">This is my first blog post written with Hexo!</span><br><span class="line"></span><br><span class="line">I’ll be sharing more technical tutorials here in the future.</span><br></pre></td></tr></table></figure>
+
+<hr>
+<h2 id="2-Preview-Locally"><a href="#2-Preview-Locally" class="headerlink" title="2. Preview Locally"></a>2. Preview Locally</h2><p>Once finished, start the local Hexo server to preview the result:</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure>
+
+<p>Visit <code>http://localhost:4000</code> in your browser — you should see your new post on the homepage.</p>
+<hr>
+<h2 id="3-Generate-Static-Files"><a href="#3-Generate-Static-Files" class="headerlink" title="3. Generate Static Files"></a>3. Generate Static Files</h2><p>If everything looks fine, generate the static files:</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>(Shortcut: <code>hexo g</code>)</p>
+<p>The generated files will be stored in the <code>public/</code> folder.</p>
+<hr>
+<h2 id="4-Deploy-to-GitHub-Pages"><a href="#4-Deploy-to-GitHub-Pages" class="headerlink" title="4. Deploy to GitHub Pages"></a>4. Deploy to GitHub Pages</h2><p>Finally, deploy your blog online by running:</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>(Shortcut: <code>hexo d</code>)</p>
+<p>After a few seconds, you’ll be able to access your post at your GitHub Pages address, e.g.:<br><code>https://yourusername.github.io/</code></p>
+<hr>
+<h2 id="5-Summary"><a href="#5-Summary" class="headerlink" title="5. Summary"></a>5. Summary</h2><p>Here’s the full workflow of writing and publishing a Hexo post on <strong>GitHub Pages</strong>:</p>
+<ol>
+<li><code>hexo new post &quot;Post Title&quot;</code> → Create a new post  </li>
+<li>Edit the post content  </li>
+<li><code>hexo s</code> → Preview locally  </li>
+<li><code>hexo g</code> → Generate static files  </li>
+<li><code>hexo d</code> → Deploy to GitHub Pages  </li>
+<li>Always run <code>hexo clean</code> before deploying to clear old cache!</li>
+</ol>
+<p>Simple, right? 🎉<br>Now you can continue writing more posts or start customizing your theme!</p>
+]]></content>
+      <categories>
+        <category>Blog Tutorial</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>Blogging</tag>
+        <tag>GitHub Pages</tag>
       </tags>
   </entry>
   <entry>
@@ -141,59 +214,155 @@
 <p>Congratulations — your personal Hexo blog is live! 🚀</p>
 ]]></content>
       <tags>
+        <tag>Tutorial</tag>
         <tag>Hexo</tag>
         <tag>GitHub</tag>
         <tag>Deployment</tag>
-        <tag>Tutorial</tag>
       </tags>
   </entry>
   <entry>
-    <title>Writing and Publishing Your First Blog with Hexo on GitHub Pages</title>
-    <url>/32784/</url>
-    <content><![CDATA[<p>In the previous article, we completed the basic setup of <strong>Hexo</strong> and successfully deployed the site to <strong>GitHub Pages</strong>. Today, let’s write your first blog post and publish it online.</p>
-<h2 id="1-Create-a-New-Post"><a href="#1-Create-a-New-Post" class="headerlink" title="1. Create a New Post"></a>1. Create a New Post</h2><p>Run the following command in your Hexo project root directory:</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new post <span class="string">&quot;My First Blog&quot;</span></span><br></pre></td></tr></table></figure>
+    <title>Installing Software</title>
+    <url>/10422/</url>
+    <content><![CDATA[<h1 id="Installing-Software"><a href="#Installing-Software" class="headerlink" title="Installing Software"></a>Installing Software</h1><span id="more"></span>
 
-<p>This will generate a Markdown file under <code>source/_posts/</code> named <code>My First Blog.md</code>.</p>
-<p>You can open it with your favorite editor (such as VS Code) and start writing:</p>
-<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: My First Blog</span><br><span class="line">date: 2025-09-21 12:00:00</span><br><span class="line"><span class="section">tags: [Essay, Hexo]</span></span><br><span class="line"><span class="section">---</span></span><br><span class="line"></span><br><span class="line">This is my first blog post written with Hexo!</span><br><span class="line"></span><br><span class="line">I’ll be sharing more technical tutorials here in the future.</span><br></pre></td></tr></table></figure>
-
-<hr>
-<h2 id="2-Preview-Locally"><a href="#2-Preview-Locally" class="headerlink" title="2. Preview Locally"></a>2. Preview Locally</h2><p>Once finished, start the local Hexo server to preview the result:</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure>
-
-<p>Visit <code>http://localhost:4000</code> in your browser — you should see your new post on the homepage.</p>
-<hr>
-<h2 id="3-Generate-Static-Files"><a href="#3-Generate-Static-Files" class="headerlink" title="3. Generate Static Files"></a>3. Generate Static Files</h2><p>If everything looks fine, generate the static files:</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>(Shortcut: <code>hexo g</code>)</p>
-<p>The generated files will be stored in the <code>public/</code> folder.</p>
-<hr>
-<h2 id="4-Deploy-to-GitHub-Pages"><a href="#4-Deploy-to-GitHub-Pages" class="headerlink" title="4. Deploy to GitHub Pages"></a>4. Deploy to GitHub Pages</h2><p>Finally, deploy your blog online by running:</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>(Shortcut: <code>hexo d</code>)</p>
-<p>After a few seconds, you’ll be able to access your post at your GitHub Pages address, e.g.:<br><code>https://yourusername.github.io/</code></p>
-<hr>
-<h2 id="5-Summary"><a href="#5-Summary" class="headerlink" title="5. Summary"></a>5. Summary</h2><p>Here’s the full workflow of writing and publishing a Hexo post on <strong>GitHub Pages</strong>:</p>
-<ol>
-<li><code>hexo new post &quot;Post Title&quot;</code> → Create a new post  </li>
-<li>Edit the post content  </li>
-<li><code>hexo s</code> → Preview locally  </li>
-<li><code>hexo g</code> → Generate static files  </li>
-<li><code>hexo d</code> → Deploy to GitHub Pages  </li>
-<li>Always run <code>hexo clean</code> before deploying to clear old cache!</li>
-</ol>
-<p>Simple, right? 🎉<br>Now you can continue writing more posts or start customizing your theme!</p>
+<h2 id="Step-1-Install-Git"><a href="#Step-1-Install-Git" class="headerlink" title="Step 1: Install Git"></a>Step 1: Install Git</h2><ul>
+<li><a href="https://git-scm.com/downloads">Download Git</a></li>
+<li>After installation, press <strong>Win + R</strong>, type <code>cmd</code> and open it.</li>
+<li>Run the following command to verify installation:<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git --version</span><br></pre></td></tr></table></figure>
+If a version number appears, Git is successfully installed.</li>
+</ul>
+<h2 id="Step-2-Install-Node-js"><a href="#Step-2-Install-Node-js" class="headerlink" title="Step 2: Install Node.js"></a>Step 2: Install Node.js</h2><ul>
+<li><a href="https://nodejs.org/zh-cn/download/">Download Node.js</a></li>
+<li>After installation, open <strong>cmd</strong> and run:<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">node -v</span><br><span class="line">npm -v</span><br></pre></td></tr></table></figure>
+If version numbers appear, Node.js and npm are successfully installed.</li>
+<li>(Optional) To update npm to the latest version:<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install -g npm</span><br></pre></td></tr></table></figure></li>
+</ul>
+<h2 id="Step-3-Install-Hexo-CLI-for-Windows"><a href="#Step-3-Install-Hexo-CLI-for-Windows" class="headerlink" title="Step 3: Install Hexo CLI (for Windows)"></a>Step 3: Install Hexo CLI (for Windows)</h2><ul>
+<li>Open <strong>cmd with administrator privileges</strong>.</li>
+<li>Run the following command to install Hexo CLI globally:<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure></li>
+<li>Create a new folder to store your blog files and navigate to it:<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo init blog</span><br><span class="line"><span class="built_in">cd</span> blog</span><br><span class="line">npm install</span><br></pre></td></tr></table></figure></li>
+<li>Start the Hexo server:<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo server</span><br></pre></td></tr></table></figure></li>
+<li>Open <code>http://localhost:4000</code> in your browser to preview your blog.<br>To stop the server, press <strong>Ctrl + C</strong> in the terminal.</li>
+</ul>
+<h2 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h2><p>Make sure your image file is located in <code>source/images/1.png</code>:</p>
+<p><img src="/images/1.png" alt="Setup Example"></p>
 ]]></content>
       <categories>
-        <category>Blog Tutorial</category>
+        <category>Blog</category>
+        <category>Tutorial</category>
       </categories>
       <tags>
+        <tag>Tutorial</tag>
         <tag>Hexo</tag>
-        <tag>Blogging</tag>
-        <tag>GitHub Pages</tag>
+        <tag>Comments</tag>
+        <tag>Blog</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Remembering History, Cherishing Peace — 80th Anniversary of the Victory of Chinese People&#39;s War of Resistance Against Japanese Aggression and World Anti-Fascist War</title>
+    <url>/13399/</url>
+    <content><![CDATA[<h1 id="Remembering-History-to-Safeguard-Peace-Passing-the-Torch-to-the-Future-—-Written-on-September-3rd-the-80th-Anniversary-of-the-Victory-of-Chinese-People’s-War-of-Resistance-Against-Japanese-Aggression-and-World-Anti-Fascist-War-✊🕊️"><a href="#Remembering-History-to-Safeguard-Peace-Passing-the-Torch-to-the-Future-—-Written-on-September-3rd-the-80th-Anniversary-of-the-Victory-of-Chinese-People’s-War-of-Resistance-Against-Japanese-Aggression-and-World-Anti-Fascist-War-✊🕊️" class="headerlink" title="Remembering History to Safeguard Peace, Passing the Torch to the Future — Written on September 3rd, the 80th Anniversary of the Victory of Chinese People’s War of Resistance Against Japanese Aggression and World Anti-Fascist War ✊🕊️"></a>Remembering History to Safeguard Peace, Passing the Torch to the Future — Written on September 3rd, the 80th Anniversary of the Victory of Chinese People’s War of Resistance Against Japanese Aggression and World Anti-Fascist War ✊🕊️</h1><p>Today is <strong>September 3rd</strong> — a special day engraved deep in the memory of the Chinese nation and forever recorded in the annals of world peace. Eighty years ago at this moment, after 14 years of bloody struggle, the Chinese people finally welcomed the great victory of the Chinese People’s War of Resistance Against Japanese Aggression. Meanwhile, the world anti-fascist alliance fought side by side, completely crushing the aggressive ambitions of fascism and letting the dawn of peace shine again on the land devastated by war.</p>
+<p>Looking back at those years of broken mountains and rivers, stormy times, the Chinese people, under extremely harsh conditions, with the national integrity of “better to be broken jade than intact tile,” used their flesh and blood to build the Great Wall against foreign invasion. From the great victory at Pingxingguan that broke the myth of “Japanese invincibility,” to the Hundred Regiments Offensive that boosted national morale; from countless martyrs’ heroic “sacrificing lives for the country, viewing death as homecoming,” to hundreds of millions of people’s perseverance of “one inch of mountains and rivers, one inch of blood; one hundred thousand youths, one hundred thousand soldiers” — we exchanged the dignity of national independence with the tremendous sacrifice of 35 million compatriots, and made indelible contributions to the victory of the world anti-fascist war.</p>
+<p>Remembering this history has never been about perpetuating hatred, but about drawing strength from suffering and safeguarding peace through commemoration. Today’s national peace and tranquil years are the “hard-won” gift exchanged by countless martyrs with their lives. In this happiness lies the belief we must uphold:</p>
+<ul>
+<li><strong>Peace is the most precious gift</strong>. Having experienced the ravages of war, we better understand the value of tranquility. Every ordinary day of stable life is a treasure that we need to cherish and defend with action, tolerating no slack or carelessness.</li>
+<li><strong>History is the spiritual backbone of the nation</strong>. Those heroic stories engraved in mountains and rivers, the spirit of resistance flowing in our bloodline, are the confidence for the Chinese nation to weather storms and forge ahead. Forgetting history equals severing the spiritual genes of the nation; remembering history keeps the nation’s backbone forever upright.</li>
+<li><strong>Self-strengthening is the foundation for safeguarding the future</strong>. The victory 80 years ago tells us that only through unity and self-improvement can we resist risks and control our destiny. Today, we need to learn from history, strive in our respective positions, and use national prosperity and national rejuvenation to build a solid foundation for peace, making the bright future increasingly stable through generations.</li>
+</ul>
+<p>Eighty years have passed, mountains and rivers have taken on a new appearance, but the echoes of that history have never faded. Let us move forward with commemoration for martyrs, cherishing peace, and expectations for the future — with the youth of our generation, protecting prosperous China, letting the torch of peace pass on forever, and the spirit of the nation continue through generations.</p>
+<p>🕯️ <strong>Let us jointly remember history, pay tribute to heroes, cherish peace, and create a better future!</strong> 🕊️</p>
+]]></content>
+      <categories>
+        <category>Essays</category>
+      </categories>
+      <tags>
+        <tag>Anti-Japanese War Memorial Day</tag>
+        <tag>History</tag>
+        <tag>Peace</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Welcome to Yu&#39;s Tech Blog!</title>
+    <url>/32793/</url>
+    <content><![CDATA[<p>Hello and welcome to my tech blog! 🎉</p>
+<h2 id="A-Warm-Welcome"><a href="#A-Warm-Welcome" class="headerlink" title="A Warm Welcome"></a>A Warm Welcome</h2><p>I’m thrilled to have you here on my digital journey through the world of web development and programming. This is <strong>Yu’s Tech Blog</strong> - a space where I share my learning experiences, coding adventures, and technical discoveries as a passionate 17-year-old developer.</p>
+<span id="more"></span>
+
+<h2 id="What-This-Blog-Is-About"><a href="#What-This-Blog-Is-About" class="headerlink" title="What This Blog Is About"></a>What This Blog Is About</h2><p>This blog serves as my public learning diary where I document:</p>
+<h3 id="🚀-Learning-Journey"><a href="#🚀-Learning-Journey" class="headerlink" title="🚀 Learning Journey"></a>🚀 Learning Journey</h3><ul>
+<li>My experiences with different programming languages</li>
+<li>Challenges I face and how I overcome them</li>
+<li>New technologies I’m exploring</li>
+<li>Growth milestones in my development career</li>
+</ul>
+<h3 id="💻-Technical-Content"><a href="#💻-Technical-Content" class="headerlink" title="💻 Technical Content"></a>💻 Technical Content</h3><ul>
+<li><strong>Tutorials</strong>: Step-by-step guides on web development topics</li>
+<li><strong>Project Breakdowns</strong>: Deep dives into projects I’ve built</li>
+<li><strong>Tool Reviews</strong>: My thoughts on development tools and resources</li>
+<li><strong>Best Practices</strong>: Tips and tricks I’ve learned along the way</li>
+</ul>
+<h3 id="🌱-Personal-Growth"><a href="#🌱-Personal-Growth" class="headerlink" title="🌱 Personal Growth"></a>🌱 Personal Growth</h3><ul>
+<li>Reflections on learning to code as a student</li>
+<li>Balancing school and programming</li>
+<li>Building projects and gaining real-world experience</li>
+<li>Connecting with the developer community</li>
+</ul>
+<h2 id="Why-I-Started-This-Blog"><a href="#Why-I-Started-This-Blog" class="headerlink" title="Why I Started This Blog"></a>Why I Started This Blog</h2><p>As a young developer, I believe in <strong>learning in public</strong>. Here’s why I decided to share my journey:</p>
+<ol>
+<li><strong>Documentation</strong>: Writing helps me solidify what I learn</li>
+<li><strong>Community</strong>: Connecting with fellow developers and learners</li>
+<li><strong>Accountability</strong>: Keeping track of my progress and goals</li>
+<li><strong>Giving Back</strong>: Sharing knowledge with others who might benefit</li>
+</ol>
+<h2 id="What-You-Can-Expect"><a href="#What-You-Can-Expect" class="headerlink" title="What You Can Expect"></a>What You Can Expect</h2><p>I’ll be regularly posting about:</p>
+<ul>
+<li><strong>Web Development</strong>: Frontend and backend technologies</li>
+<li><strong>Programming Languages</strong>: JavaScript, Python, and more</li>
+<li><strong>Project Showcases</strong>: Things I build and lessons learned</li>
+<li><strong>Learning Resources</strong>: Books, courses, and tools I recommend</li>
+<li><strong>Career Insights</strong>: Advice for fellow student developers</li>
+</ul>
+<h2 id="Current-Focus-Areas"><a href="#Current-Focus-Areas" class="headerlink" title="Current Focus Areas"></a>Current Focus Areas</h2><p>Right now, I’m particularly focused on:</p>
+<ul>
+<li>Mastering <strong>JavaScript</strong> and modern frameworks</li>
+<li>Building <strong>full-stack web applications</strong></li>
+<li>Learning <strong>best practices</strong> in software development</li>
+<li>Exploring <strong>open source</strong> contributions</li>
+<li>Understanding <strong>web performance</strong> and optimization</li>
+</ul>
+<h2 id="Let’s-Connect"><a href="#Let’s-Connect" class="headerlink" title="Let’s Connect!"></a>Let’s Connect!</h2><p>I’d love to hear from you! Whether you’re:</p>
+<ul>
+<li>A fellow student learning to code</li>
+<li>An experienced developer with advice</li>
+<li>Someone curious about programming</li>
+<li>Or just stopping by to say hello</li>
+</ul>
+<p>Feel free to reach out through:</p>
+<ul>
+<li><strong>Comments</strong> on blog posts</li>
+<li><strong>GitHub</strong>: Check out my projects and contributions</li>
+<li><strong>Email</strong>: Drop me a line with questions or suggestions</li>
+<li><strong>Social Media</strong>: Let’s connect and share our coding journeys</li>
+</ul>
+<h2 id="What’s-Next"><a href="#What’s-Next" class="headerlink" title="What’s Next?"></a>What’s Next?</h2><p>I’m excited to share more content with you! Coming up:</p>
+<ul>
+<li>A detailed guide on setting up a development environment</li>
+<li>My first major project walkthrough</li>
+<li>Reviews of learning resources that helped me</li>
+<li>Tips for balancing coding with school life</li>
+</ul>
+<hr>
+<p><em>Thank you for joining me on this adventure! I hope you find the content helpful and inspiring. Let’s learn, build, and grow together in this amazing world of technology!</em></p>
+<p>Happy coding! 🚀</p>
+<p><strong>Yu</strong></p>
+]]></content>
+      <categories>
+        <category>General</category>
+      </categories>
+      <tags>
+        <tag>welcome</tag>
+        <tag>introduction</tag>
+        <tag>tech blog</tag>
       </tags>
   </entry>
   <entry>
@@ -361,113 +530,6 @@
         <tag>PyCharm</tag>
         <tag>Jupyter</tag>
         <tag>Editor</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Remembering History, Cherishing Peace — 80th Anniversary of the Victory of Chinese People&#39;s War of Resistance Against Japanese Aggression and World Anti-Fascist War</title>
-    <url>/13399/</url>
-    <content><![CDATA[<h1 id="Remembering-History-to-Safeguard-Peace-Passing-the-Torch-to-the-Future-—-Written-on-September-3rd-the-80th-Anniversary-of-the-Victory-of-Chinese-People’s-War-of-Resistance-Against-Japanese-Aggression-and-World-Anti-Fascist-War-✊🕊️"><a href="#Remembering-History-to-Safeguard-Peace-Passing-the-Torch-to-the-Future-—-Written-on-September-3rd-the-80th-Anniversary-of-the-Victory-of-Chinese-People’s-War-of-Resistance-Against-Japanese-Aggression-and-World-Anti-Fascist-War-✊🕊️" class="headerlink" title="Remembering History to Safeguard Peace, Passing the Torch to the Future — Written on September 3rd, the 80th Anniversary of the Victory of Chinese People’s War of Resistance Against Japanese Aggression and World Anti-Fascist War ✊🕊️"></a>Remembering History to Safeguard Peace, Passing the Torch to the Future — Written on September 3rd, the 80th Anniversary of the Victory of Chinese People’s War of Resistance Against Japanese Aggression and World Anti-Fascist War ✊🕊️</h1><p>Today is <strong>September 3rd</strong> — a special day engraved deep in the memory of the Chinese nation and forever recorded in the annals of world peace. Eighty years ago at this moment, after 14 years of bloody struggle, the Chinese people finally welcomed the great victory of the Chinese People’s War of Resistance Against Japanese Aggression. Meanwhile, the world anti-fascist alliance fought side by side, completely crushing the aggressive ambitions of fascism and letting the dawn of peace shine again on the land devastated by war.</p>
-<p>Looking back at those years of broken mountains and rivers, stormy times, the Chinese people, under extremely harsh conditions, with the national integrity of “better to be broken jade than intact tile,” used their flesh and blood to build the Great Wall against foreign invasion. From the great victory at Pingxingguan that broke the myth of “Japanese invincibility,” to the Hundred Regiments Offensive that boosted national morale; from countless martyrs’ heroic “sacrificing lives for the country, viewing death as homecoming,” to hundreds of millions of people’s perseverance of “one inch of mountains and rivers, one inch of blood; one hundred thousand youths, one hundred thousand soldiers” — we exchanged the dignity of national independence with the tremendous sacrifice of 35 million compatriots, and made indelible contributions to the victory of the world anti-fascist war.</p>
-<p>Remembering this history has never been about perpetuating hatred, but about drawing strength from suffering and safeguarding peace through commemoration. Today’s national peace and tranquil years are the “hard-won” gift exchanged by countless martyrs with their lives. In this happiness lies the belief we must uphold:</p>
-<ul>
-<li><strong>Peace is the most precious gift</strong>. Having experienced the ravages of war, we better understand the value of tranquility. Every ordinary day of stable life is a treasure that we need to cherish and defend with action, tolerating no slack or carelessness.</li>
-<li><strong>History is the spiritual backbone of the nation</strong>. Those heroic stories engraved in mountains and rivers, the spirit of resistance flowing in our bloodline, are the confidence for the Chinese nation to weather storms and forge ahead. Forgetting history equals severing the spiritual genes of the nation; remembering history keeps the nation’s backbone forever upright.</li>
-<li><strong>Self-strengthening is the foundation for safeguarding the future</strong>. The victory 80 years ago tells us that only through unity and self-improvement can we resist risks and control our destiny. Today, we need to learn from history, strive in our respective positions, and use national prosperity and national rejuvenation to build a solid foundation for peace, making the bright future increasingly stable through generations.</li>
-</ul>
-<p>Eighty years have passed, mountains and rivers have taken on a new appearance, but the echoes of that history have never faded. Let us move forward with commemoration for martyrs, cherishing peace, and expectations for the future — with the youth of our generation, protecting prosperous China, letting the torch of peace pass on forever, and the spirit of the nation continue through generations.</p>
-<p>🕯️ <strong>Let us jointly remember history, pay tribute to heroes, cherish peace, and create a better future!</strong> 🕊️</p>
-]]></content>
-      <categories>
-        <category>Essays</category>
-      </categories>
-      <tags>
-        <tag>Anti-Japanese War Memorial Day</tag>
-        <tag>History</tag>
-        <tag>Peace</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Welcome to Yu&#39;s Tech Blog!</title>
-    <url>/32793/</url>
-    <content><![CDATA[<p>Hello and welcome to my tech blog! 🎉</p>
-<h2 id="A-Warm-Welcome"><a href="#A-Warm-Welcome" class="headerlink" title="A Warm Welcome"></a>A Warm Welcome</h2><p>I’m thrilled to have you here on my digital journey through the world of web development and programming. This is <strong>Yu’s Tech Blog</strong> - a space where I share my learning experiences, coding adventures, and technical discoveries as a passionate 17-year-old developer.</p>
-<span id="more"></span>
-
-<h2 id="What-This-Blog-Is-About"><a href="#What-This-Blog-Is-About" class="headerlink" title="What This Blog Is About"></a>What This Blog Is About</h2><p>This blog serves as my public learning diary where I document:</p>
-<h3 id="🚀-Learning-Journey"><a href="#🚀-Learning-Journey" class="headerlink" title="🚀 Learning Journey"></a>🚀 Learning Journey</h3><ul>
-<li>My experiences with different programming languages</li>
-<li>Challenges I face and how I overcome them</li>
-<li>New technologies I’m exploring</li>
-<li>Growth milestones in my development career</li>
-</ul>
-<h3 id="💻-Technical-Content"><a href="#💻-Technical-Content" class="headerlink" title="💻 Technical Content"></a>💻 Technical Content</h3><ul>
-<li><strong>Tutorials</strong>: Step-by-step guides on web development topics</li>
-<li><strong>Project Breakdowns</strong>: Deep dives into projects I’ve built</li>
-<li><strong>Tool Reviews</strong>: My thoughts on development tools and resources</li>
-<li><strong>Best Practices</strong>: Tips and tricks I’ve learned along the way</li>
-</ul>
-<h3 id="🌱-Personal-Growth"><a href="#🌱-Personal-Growth" class="headerlink" title="🌱 Personal Growth"></a>🌱 Personal Growth</h3><ul>
-<li>Reflections on learning to code as a student</li>
-<li>Balancing school and programming</li>
-<li>Building projects and gaining real-world experience</li>
-<li>Connecting with the developer community</li>
-</ul>
-<h2 id="Why-I-Started-This-Blog"><a href="#Why-I-Started-This-Blog" class="headerlink" title="Why I Started This Blog"></a>Why I Started This Blog</h2><p>As a young developer, I believe in <strong>learning in public</strong>. Here’s why I decided to share my journey:</p>
-<ol>
-<li><strong>Documentation</strong>: Writing helps me solidify what I learn</li>
-<li><strong>Community</strong>: Connecting with fellow developers and learners</li>
-<li><strong>Accountability</strong>: Keeping track of my progress and goals</li>
-<li><strong>Giving Back</strong>: Sharing knowledge with others who might benefit</li>
-</ol>
-<h2 id="What-You-Can-Expect"><a href="#What-You-Can-Expect" class="headerlink" title="What You Can Expect"></a>What You Can Expect</h2><p>I’ll be regularly posting about:</p>
-<ul>
-<li><strong>Web Development</strong>: Frontend and backend technologies</li>
-<li><strong>Programming Languages</strong>: JavaScript, Python, and more</li>
-<li><strong>Project Showcases</strong>: Things I build and lessons learned</li>
-<li><strong>Learning Resources</strong>: Books, courses, and tools I recommend</li>
-<li><strong>Career Insights</strong>: Advice for fellow student developers</li>
-</ul>
-<h2 id="Current-Focus-Areas"><a href="#Current-Focus-Areas" class="headerlink" title="Current Focus Areas"></a>Current Focus Areas</h2><p>Right now, I’m particularly focused on:</p>
-<ul>
-<li>Mastering <strong>JavaScript</strong> and modern frameworks</li>
-<li>Building <strong>full-stack web applications</strong></li>
-<li>Learning <strong>best practices</strong> in software development</li>
-<li>Exploring <strong>open source</strong> contributions</li>
-<li>Understanding <strong>web performance</strong> and optimization</li>
-</ul>
-<h2 id="Let’s-Connect"><a href="#Let’s-Connect" class="headerlink" title="Let’s Connect!"></a>Let’s Connect!</h2><p>I’d love to hear from you! Whether you’re:</p>
-<ul>
-<li>A fellow student learning to code</li>
-<li>An experienced developer with advice</li>
-<li>Someone curious about programming</li>
-<li>Or just stopping by to say hello</li>
-</ul>
-<p>Feel free to reach out through:</p>
-<ul>
-<li><strong>Comments</strong> on blog posts</li>
-<li><strong>GitHub</strong>: Check out my projects and contributions</li>
-<li><strong>Email</strong>: Drop me a line with questions or suggestions</li>
-<li><strong>Social Media</strong>: Let’s connect and share our coding journeys</li>
-</ul>
-<h2 id="What’s-Next"><a href="#What’s-Next" class="headerlink" title="What’s Next?"></a>What’s Next?</h2><p>I’m excited to share more content with you! Coming up:</p>
-<ul>
-<li>A detailed guide on setting up a development environment</li>
-<li>My first major project walkthrough</li>
-<li>Reviews of learning resources that helped me</li>
-<li>Tips for balancing coding with school life</li>
-</ul>
-<hr>
-<p><em>Thank you for joining me on this adventure! I hope you find the content helpful and inspiring. Let’s learn, build, and grow together in this amazing world of technology!</em></p>
-<p>Happy coding! 🚀</p>
-<p><strong>Yu</strong></p>
-]]></content>
-      <categories>
-        <category>General</category>
-      </categories>
-      <tags>
-        <tag>welcome</tag>
-        <tag>introduction</tag>
-        <tag>tech blog</tag>
       </tags>
   </entry>
 </search>
