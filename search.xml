@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/undefined/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>Celebrating National Day — Together for Our Motherland</title>
     <url>/91327/</url>
     <content><![CDATA[<h1 id="The-Splendor-of-the-Land-and-the-Joy-of-Celebration-—-Written-on-the-Eve-of-National-Day-🎉🇨🇳"><a href="#The-Splendor-of-the-Land-and-the-Joy-of-Celebration-—-Written-on-the-Eve-of-National-Day-🎉🇨🇳" class="headerlink" title="The Splendor of the Land and the Joy of Celebration — Written on the Eve of National Day 🎉🇨🇳"></a>The Splendor of the Land and the Joy of Celebration — Written on the Eve of National Day 🎉🇨🇳</h1><p>As autumn breezes sweep across the vast land of China and the morning glow paints the mountains in red, we once again welcome a meaningful moment — <strong>October 1st, National Day</strong>, the birthday of the People’s Republic of China.  </p>
@@ -88,90 +70,6 @@
         <tag>Hexo</tag>
         <tag>Blogging</tag>
         <tag>GitHub Pages</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Welcome to Yu&#39;s Tech Blog!</title>
-    <url>/undefined/</url>
-    <content><![CDATA[<p>Hello and welcome to my tech blog! 🎉</p>
-<h2 id="A-Warm-Welcome"><a href="#A-Warm-Welcome" class="headerlink" title="A Warm Welcome"></a>A Warm Welcome</h2><p>I’m thrilled to have you here on my digital journey through the world of web development and programming. This is <strong>Yu’s Tech Blog</strong> - a space where I share my learning experiences, coding adventures, and technical discoveries as a passionate 17-year-old developer.</p>
-<span id="more"></span>
-
-<h2 id="What-This-Blog-Is-About"><a href="#What-This-Blog-Is-About" class="headerlink" title="What This Blog Is About"></a>What This Blog Is About</h2><p>This blog serves as my public learning diary where I document:</p>
-<h3 id="🚀-Learning-Journey"><a href="#🚀-Learning-Journey" class="headerlink" title="🚀 Learning Journey"></a>🚀 Learning Journey</h3><ul>
-<li>My experiences with different programming languages</li>
-<li>Challenges I face and how I overcome them</li>
-<li>New technologies I’m exploring</li>
-<li>Growth milestones in my development career</li>
-</ul>
-<h3 id="💻-Technical-Content"><a href="#💻-Technical-Content" class="headerlink" title="💻 Technical Content"></a>💻 Technical Content</h3><ul>
-<li><strong>Tutorials</strong>: Step-by-step guides on web development topics</li>
-<li><strong>Project Breakdowns</strong>: Deep dives into projects I’ve built</li>
-<li><strong>Tool Reviews</strong>: My thoughts on development tools and resources</li>
-<li><strong>Best Practices</strong>: Tips and tricks I’ve learned along the way</li>
-</ul>
-<h3 id="🌱-Personal-Growth"><a href="#🌱-Personal-Growth" class="headerlink" title="🌱 Personal Growth"></a>🌱 Personal Growth</h3><ul>
-<li>Reflections on learning to code as a student</li>
-<li>Balancing school and programming</li>
-<li>Building projects and gaining real-world experience</li>
-<li>Connecting with the developer community</li>
-</ul>
-<h2 id="Why-I-Started-This-Blog"><a href="#Why-I-Started-This-Blog" class="headerlink" title="Why I Started This Blog"></a>Why I Started This Blog</h2><p>As a young developer, I believe in <strong>learning in public</strong>. Here’s why I decided to share my journey:</p>
-<ol>
-<li><strong>Documentation</strong>: Writing helps me solidify what I learn</li>
-<li><strong>Community</strong>: Connecting with fellow developers and learners</li>
-<li><strong>Accountability</strong>: Keeping track of my progress and goals</li>
-<li><strong>Giving Back</strong>: Sharing knowledge with others who might benefit</li>
-</ol>
-<h2 id="What-You-Can-Expect"><a href="#What-You-Can-Expect" class="headerlink" title="What You Can Expect"></a>What You Can Expect</h2><p>I’ll be regularly posting about:</p>
-<ul>
-<li><strong>Web Development</strong>: Frontend and backend technologies</li>
-<li><strong>Programming Languages</strong>: JavaScript, Python, and more</li>
-<li><strong>Project Showcases</strong>: Things I build and lessons learned</li>
-<li><strong>Learning Resources</strong>: Books, courses, and tools I recommend</li>
-<li><strong>Career Insights</strong>: Advice for fellow student developers</li>
-</ul>
-<h2 id="Current-Focus-Areas"><a href="#Current-Focus-Areas" class="headerlink" title="Current Focus Areas"></a>Current Focus Areas</h2><p>Right now, I’m particularly focused on:</p>
-<ul>
-<li>Mastering <strong>JavaScript</strong> and modern frameworks</li>
-<li>Building <strong>full-stack web applications</strong></li>
-<li>Learning <strong>best practices</strong> in software development</li>
-<li>Exploring <strong>open source</strong> contributions</li>
-<li>Understanding <strong>web performance</strong> and optimization</li>
-</ul>
-<h2 id="Let’s-Connect"><a href="#Let’s-Connect" class="headerlink" title="Let’s Connect!"></a>Let’s Connect!</h2><p>I’d love to hear from you! Whether you’re:</p>
-<ul>
-<li>A fellow student learning to code</li>
-<li>An experienced developer with advice</li>
-<li>Someone curious about programming</li>
-<li>Or just stopping by to say hello</li>
-</ul>
-<p>Feel free to reach out through:</p>
-<ul>
-<li><strong>Comments</strong> on blog posts</li>
-<li><strong>GitHub</strong>: Check out my projects and contributions</li>
-<li><strong>Email</strong>: Drop me a line with questions or suggestions</li>
-<li><strong>Social Media</strong>: Let’s connect and share our coding journeys</li>
-</ul>
-<h2 id="What’s-Next"><a href="#What’s-Next" class="headerlink" title="What’s Next?"></a>What’s Next?</h2><p>I’m excited to share more content with you! Coming up:</p>
-<ul>
-<li>A detailed guide on setting up a development environment</li>
-<li>My first major project walkthrough</li>
-<li>Reviews of learning resources that helped me</li>
-<li>Tips for balancing coding with school life</li>
-</ul>
-<hr>
-<p><em>Thank you for joining me on this adventure! I hope you find the content helpful and inspiring. Let’s learn, build, and grow together in this amazing world of technology!</em></p>
-<p>Happy coding! 🚀</p>
-<p><strong>Yu</strong></p>
-]]></content>
-      <categories>
-        <category>General</category>
-      </categories>
-      <tags>
-        <tag>welcome</tag>
-        <tag>introduction</tag>
-        <tag>tech blog</tag>
       </tags>
   </entry>
   <entry>
@@ -266,6 +164,90 @@
         <tag>GitHub</tag>
         <tag>Deployment</tag>
         <tag>Tutorial</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Welcome to Yu&#39;s Tech Blog!</title>
+    <url>/undefined/</url>
+    <content><![CDATA[<p>Hello and welcome to my tech blog! 🎉</p>
+<h2 id="A-Warm-Welcome"><a href="#A-Warm-Welcome" class="headerlink" title="A Warm Welcome"></a>A Warm Welcome</h2><p>I’m thrilled to have you here on my digital journey through the world of web development and programming. This is <strong>Yu’s Tech Blog</strong> - a space where I share my learning experiences, coding adventures, and technical discoveries as a passionate 17-year-old developer.</p>
+<span id="more"></span>
+
+<h2 id="What-This-Blog-Is-About"><a href="#What-This-Blog-Is-About" class="headerlink" title="What This Blog Is About"></a>What This Blog Is About</h2><p>This blog serves as my public learning diary where I document:</p>
+<h3 id="🚀-Learning-Journey"><a href="#🚀-Learning-Journey" class="headerlink" title="🚀 Learning Journey"></a>🚀 Learning Journey</h3><ul>
+<li>My experiences with different programming languages</li>
+<li>Challenges I face and how I overcome them</li>
+<li>New technologies I’m exploring</li>
+<li>Growth milestones in my development career</li>
+</ul>
+<h3 id="💻-Technical-Content"><a href="#💻-Technical-Content" class="headerlink" title="💻 Technical Content"></a>💻 Technical Content</h3><ul>
+<li><strong>Tutorials</strong>: Step-by-step guides on web development topics</li>
+<li><strong>Project Breakdowns</strong>: Deep dives into projects I’ve built</li>
+<li><strong>Tool Reviews</strong>: My thoughts on development tools and resources</li>
+<li><strong>Best Practices</strong>: Tips and tricks I’ve learned along the way</li>
+</ul>
+<h3 id="🌱-Personal-Growth"><a href="#🌱-Personal-Growth" class="headerlink" title="🌱 Personal Growth"></a>🌱 Personal Growth</h3><ul>
+<li>Reflections on learning to code as a student</li>
+<li>Balancing school and programming</li>
+<li>Building projects and gaining real-world experience</li>
+<li>Connecting with the developer community</li>
+</ul>
+<h2 id="Why-I-Started-This-Blog"><a href="#Why-I-Started-This-Blog" class="headerlink" title="Why I Started This Blog"></a>Why I Started This Blog</h2><p>As a young developer, I believe in <strong>learning in public</strong>. Here’s why I decided to share my journey:</p>
+<ol>
+<li><strong>Documentation</strong>: Writing helps me solidify what I learn</li>
+<li><strong>Community</strong>: Connecting with fellow developers and learners</li>
+<li><strong>Accountability</strong>: Keeping track of my progress and goals</li>
+<li><strong>Giving Back</strong>: Sharing knowledge with others who might benefit</li>
+</ol>
+<h2 id="What-You-Can-Expect"><a href="#What-You-Can-Expect" class="headerlink" title="What You Can Expect"></a>What You Can Expect</h2><p>I’ll be regularly posting about:</p>
+<ul>
+<li><strong>Web Development</strong>: Frontend and backend technologies</li>
+<li><strong>Programming Languages</strong>: JavaScript, Python, and more</li>
+<li><strong>Project Showcases</strong>: Things I build and lessons learned</li>
+<li><strong>Learning Resources</strong>: Books, courses, and tools I recommend</li>
+<li><strong>Career Insights</strong>: Advice for fellow student developers</li>
+</ul>
+<h2 id="Current-Focus-Areas"><a href="#Current-Focus-Areas" class="headerlink" title="Current Focus Areas"></a>Current Focus Areas</h2><p>Right now, I’m particularly focused on:</p>
+<ul>
+<li>Mastering <strong>JavaScript</strong> and modern frameworks</li>
+<li>Building <strong>full-stack web applications</strong></li>
+<li>Learning <strong>best practices</strong> in software development</li>
+<li>Exploring <strong>open source</strong> contributions</li>
+<li>Understanding <strong>web performance</strong> and optimization</li>
+</ul>
+<h2 id="Let’s-Connect"><a href="#Let’s-Connect" class="headerlink" title="Let’s Connect!"></a>Let’s Connect!</h2><p>I’d love to hear from you! Whether you’re:</p>
+<ul>
+<li>A fellow student learning to code</li>
+<li>An experienced developer with advice</li>
+<li>Someone curious about programming</li>
+<li>Or just stopping by to say hello</li>
+</ul>
+<p>Feel free to reach out through:</p>
+<ul>
+<li><strong>Comments</strong> on blog posts</li>
+<li><strong>GitHub</strong>: Check out my projects and contributions</li>
+<li><strong>Email</strong>: Drop me a line with questions or suggestions</li>
+<li><strong>Social Media</strong>: Let’s connect and share our coding journeys</li>
+</ul>
+<h2 id="What’s-Next"><a href="#What’s-Next" class="headerlink" title="What’s Next?"></a>What’s Next?</h2><p>I’m excited to share more content with you! Coming up:</p>
+<ul>
+<li>A detailed guide on setting up a development environment</li>
+<li>My first major project walkthrough</li>
+<li>Reviews of learning resources that helped me</li>
+<li>Tips for balancing coding with school life</li>
+</ul>
+<hr>
+<p><em>Thank you for joining me on this adventure! I hope you find the content helpful and inspiring. Let’s learn, build, and grow together in this amazing world of technology!</em></p>
+<p>Happy coding! 🚀</p>
+<p><strong>Yu</strong></p>
+]]></content>
+      <categories>
+        <category>General</category>
+      </categories>
+      <tags>
+        <tag>welcome</tag>
+        <tag>introduction</tag>
+        <tag>tech blog</tag>
       </tags>
   </entry>
 </search>
