@@ -56,11 +56,11 @@
     
     <category term="Hexo" scheme="https://yu-blog.top/tags/Hexo/"/>
     
-    <category term="Tutorial" scheme="https://yu-blog.top/tags/Tutorial/"/>
-    
     <category term="GitHub" scheme="https://yu-blog.top/tags/GitHub/"/>
     
     <category term="Deployment" scheme="https://yu-blog.top/tags/Deployment/"/>
+    
+    <category term="Tutorial" scheme="https://yu-blog.top/tags/Tutorial/"/>
     
   </entry>
   
@@ -150,6 +150,8 @@
     <category term="Tool Recommendations" scheme="https://yu-blog.top/categories/Python/Tool-Recommendations/"/>
     
     
+    <category term="Tutorial" scheme="https://yu-blog.top/tags/Tutorial/"/>
+    
     <category term="Python" scheme="https://yu-blog.top/tags/Python/"/>
     
     <category term="VSCode" scheme="https://yu-blog.top/tags/VSCode/"/>
@@ -161,8 +163,6 @@
     <category term="Jupyter" scheme="https://yu-blog.top/tags/Jupyter/"/>
     
     <category term="Editor" scheme="https://yu-blog.top/tags/Editor/"/>
-    
-    <category term="Tutorial" scheme="https://yu-blog.top/tags/Tutorial/"/>
     
   </entry>
   

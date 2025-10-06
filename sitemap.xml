@@ -73,6 +73,15 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://yu-blog.top/privacy-policy/</loc>
+    
+    <lastmod>2025-10-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>https://yu-blog.top/</loc>
@@ -81,20 +90,6 @@
     <priority>1.0</priority>
   </url>
 
-  
-  <url>
-    <loc>https://yu-blog.top/tags/National-Day/</loc>
-    <lastmod>2025-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yu-blog.top/tags/Festival/</loc>
-    <lastmod>2025-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>https://yu-blog.top/tags/Mid-Autumn-Festival/</loc>
@@ -146,6 +141,48 @@
   </url>
   
   <url>
+    <loc>https://yu-blog.top/tags/GitHub/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yu-blog.top/tags/Deployment/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yu-blog.top/tags/Tutorial/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yu-blog.top/tags/welcome/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yu-blog.top/tags/introduction/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yu-blog.top/tags/tech-blog/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://yu-blog.top/tags/Python/</loc>
     <lastmod>2025-10-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -188,27 +225,6 @@
   </url>
   
   <url>
-    <loc>https://yu-blog.top/tags/Tutorial/</loc>
-    <lastmod>2025-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yu-blog.top/tags/GitHub/</loc>
-    <lastmod>2025-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yu-blog.top/tags/Deployment/</loc>
-    <lastmod>2025-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://yu-blog.top/tags/Anti-Japanese-War-Memorial-Day/</loc>
     <lastmod>2025-10-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -230,34 +246,20 @@
   </url>
   
   <url>
-    <loc>https://yu-blog.top/tags/welcome/</loc>
+    <loc>https://yu-blog.top/tags/National-Day/</loc>
     <lastmod>2025-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://yu-blog.top/tags/introduction/</loc>
-    <lastmod>2025-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yu-blog.top/tags/tech-blog/</loc>
+    <loc>https://yu-blog.top/tags/Festival/</loc>
     <lastmod>2025-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
-  
-  <url>
-    <loc>https://yu-blog.top/categories/Essay/</loc>
-    <lastmod>2025-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>https://yu-blog.top/categories/Traditional-Culture/</loc>
@@ -268,6 +270,13 @@
   
   <url>
     <loc>https://yu-blog.top/categories/Blog-Tutorial/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yu-blog.top/categories/General/</loc>
     <lastmod>2025-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -288,7 +297,7 @@
   </url>
   
   <url>
-    <loc>https://yu-blog.top/categories/General/</loc>
+    <loc>https://yu-blog.top/categories/Essay/</loc>
     <lastmod>2025-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
