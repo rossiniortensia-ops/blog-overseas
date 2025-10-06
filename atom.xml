@@ -6,7 +6,7 @@
   <link href="https://yu-blog.top/atom.xml" rel="self"/>
   
   <link href="https://yu-blog.top/"/>
-  <updated>2025-10-06T04:14:28.658Z</updated>
+  <updated>2025-10-06T00:00:00.000Z</updated>
   <id>https://yu-blog.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>The Origin and Blessings of the Mid-Autumn Festival</title>
+    <link href="https://yu-blog.top/undefined/"/>
+    <id>https://yu-blog.top/undefined/</id>
+    <published>2025-10-06T00:00:00.000Z</published>
+    <updated>2025-10-06T00:00:00.000Z</updated>
+    
+    
+    <summary type="html">Learn about the origin and cultural significance of the Mid-Autumn Festival, a time to appreciate the full moon and celebrate reunion with loved ones. Happy Mid-Autumn Festival!</summary>
+    
+    
+    
+    <category term="Traditional Culture" scheme="https://yu-blog.top/categories/Traditional-Culture/"/>
+    
+    
+    <category term="Mid-Autumn Festival" scheme="https://yu-blog.top/tags/Mid-Autumn-Festival/"/>
+    
+    <category term="Chinese Festival" scheme="https://yu-blog.top/tags/Chinese-Festival/"/>
+    
+    <category term="Moon Culture" scheme="https://yu-blog.top/tags/Moon-Culture/"/>
+    
+    <category term="Reunion" scheme="https://yu-blog.top/tags/Reunion/"/>
+    
+  </entry>
   
   <entry>
     <title>Deploying a Hexo Blog on GitHub Pages — A Complete Guide</title>
