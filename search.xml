@@ -19,6 +19,78 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Celebrating National Day — Together for Our Motherland</title>
+    <url>/91327/</url>
+    <content><![CDATA[<h1 id="The-Splendor-of-the-Land-and-the-Joy-of-Celebration-—-Written-on-the-Eve-of-National-Day-🎉🇨🇳"><a href="#The-Splendor-of-the-Land-and-the-Joy-of-Celebration-—-Written-on-the-Eve-of-National-Day-🎉🇨🇳" class="headerlink" title="The Splendor of the Land and the Joy of Celebration — Written on the Eve of National Day 🎉🇨🇳"></a>The Splendor of the Land and the Joy of Celebration — Written on the Eve of National Day 🎉🇨🇳</h1><p>As autumn breezes sweep across the vast land of China and the morning glow paints the mountains in red, we once again welcome a meaningful moment — <strong>October 1st, National Day</strong>, the birthday of the People’s Republic of China.  </p>
+<p>On this day, no special ceremony is needed — the feeling of patriotism quietly rises in every heart. Look around: on the bustling city streets, the <strong>Five-Star Red Flags</strong> wave proudly under the golden sun; in peaceful villages, crimson flags flutter above smoke curling from chimneys — humble but heartfelt signs of joy. Shop windows glow with “China Red” decorations, children wave little flags, and social media overflows with “I love you, China.” These small yet heartwarming moments come together to form the ritual beauty of this festival, turning “National Day” from a date on the calendar into a shared emotional memory for every Chinese person.  </p>
+<p>We often say that National Day is more than a holiday — it is a mirror that lets us <strong>look back at history</strong>. It reminds us of the solemn declaration over 70 years ago: <em>“The Central People’s Government of the People’s Republic of China is established!”</em> It recalls generations of hard work and perseverance that carried the nation from poverty to prosperity. At the same time, it is also a <strong>beacon of the future</strong>, reminding us that today’s peace and comfort are built upon the sweat and dedication of countless people — and that the journey toward a better tomorrow continues with our shared efforts.  </p>
+<p>On this glorious and hopeful day, there is so much to say from the heart:  </p>
+<ul>
+<li><strong>Gratitude to our Motherland</strong>, whose strength provides us a safe and stable home. From border defense to daily life, from technological breakthroughs to social progress — it is the steady rise of our nation that gives us the confidence to stand tall in the world and pursue happiness fearlessly.  </li>
+<li><strong>Gratitude for everyday life</strong>, where beauty hides in simplicity — a warm breakfast at dawn, a cozy dinner with family, the convenience of travel, a peaceful walk in the park. These small joys are threads in the fabric of happiness, reminding us that “when the country prospers, the people thrive.”  </li>
+<li><strong>Hope for growing with our nation</strong> — though we may be ordinary individuals in our roles, every bit of hard work, every act of kindness, every moment of diligence contributes to the nation’s progress. May we all paint our own stories on the canvas of our era, walking alongside our country toward a brighter future.</li>
+</ul>
+<p>Finally, let us offer our sincerest blessings — to our beloved country, and to everyone striving for a better life:  </p>
+<p>🎆 <strong>May our Motherland remain splendid and prosperous for generations to come. May you have a joyful and peaceful National Day filled with happiness and strength!</strong> 🎆</p>
+]]></content>
+      <categories>
+        <category>Essay</category>
+      </categories>
+      <tags>
+        <tag>National Day</tag>
+        <tag>Festival</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Writing and Publishing Your First Blog with Hexo on GitHub Pages</title>
+    <url>/32784/</url>
+    <content><![CDATA[<p>In the previous article, we completed the basic setup of <strong>Hexo</strong> and successfully deployed the site to <strong>GitHub Pages</strong>. Today, let’s write your first blog post and publish it online.</p>
+<h2 id="1-Create-a-New-Post"><a href="#1-Create-a-New-Post" class="headerlink" title="1. Create a New Post"></a>1. Create a New Post</h2><p>Run the following command in your Hexo project root directory:</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new post <span class="string">&quot;My First Blog&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>This will generate a Markdown file under <code>source/_posts/</code> named <code>My First Blog.md</code>.</p>
+<p>You can open it with your favorite editor (such as VS Code) and start writing:</p>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: My First Blog</span><br><span class="line">date: 2025-09-21 12:00:00</span><br><span class="line"><span class="section">tags: [Essay, Hexo]</span></span><br><span class="line"><span class="section">---</span></span><br><span class="line"></span><br><span class="line">This is my first blog post written with Hexo!</span><br><span class="line"></span><br><span class="line">I’ll be sharing more technical tutorials here in the future.</span><br></pre></td></tr></table></figure>
+
+<hr>
+<h2 id="2-Preview-Locally"><a href="#2-Preview-Locally" class="headerlink" title="2. Preview Locally"></a>2. Preview Locally</h2><p>Once finished, start the local Hexo server to preview the result:</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure>
+
+<p>Visit <code>http://localhost:4000</code> in your browser — you should see your new post on the homepage.</p>
+<hr>
+<h2 id="3-Generate-Static-Files"><a href="#3-Generate-Static-Files" class="headerlink" title="3. Generate Static Files"></a>3. Generate Static Files</h2><p>If everything looks fine, generate the static files:</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>(Shortcut: <code>hexo g</code>)</p>
+<p>The generated files will be stored in the <code>public/</code> folder.</p>
+<hr>
+<h2 id="4-Deploy-to-GitHub-Pages"><a href="#4-Deploy-to-GitHub-Pages" class="headerlink" title="4. Deploy to GitHub Pages"></a>4. Deploy to GitHub Pages</h2><p>Finally, deploy your blog online by running:</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>(Shortcut: <code>hexo d</code>)</p>
+<p>After a few seconds, you’ll be able to access your post at your GitHub Pages address, e.g.:<br><code>https://yourusername.github.io/</code></p>
+<hr>
+<h2 id="5-Summary"><a href="#5-Summary" class="headerlink" title="5. Summary"></a>5. Summary</h2><p>Here’s the full workflow of writing and publishing a Hexo post on <strong>GitHub Pages</strong>:</p>
+<ol>
+<li><code>hexo new post &quot;Post Title&quot;</code> → Create a new post  </li>
+<li>Edit the post content  </li>
+<li><code>hexo s</code> → Preview locally  </li>
+<li><code>hexo g</code> → Generate static files  </li>
+<li><code>hexo d</code> → Deploy to GitHub Pages  </li>
+<li>Always run <code>hexo clean</code> before deploying to clear old cache!</li>
+</ol>
+<p>Simple, right? 🎉<br>Now you can continue writing more posts or start customizing your theme!</p>
+]]></content>
+      <categories>
+        <category>Blog Tutorial</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>Blogging</tag>
+        <tag>GitHub Pages</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Welcome to Yu&#39;s Tech Blog!</title>
     <url>/undefined/</url>
     <content><![CDATA[<p>Hello and welcome to my tech blog! 🎉</p>
@@ -100,6 +172,100 @@
         <tag>welcome</tag>
         <tag>introduction</tag>
         <tag>tech blog</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Deploying a Hexo Blog on GitHub Pages — A Complete Guide</title>
+    <url>/56213/</url>
+    <content><![CDATA[<p>When it comes to building a personal blog, <strong>Hexo + GitHub Pages</strong> is one of the most popular solutions.<br>This guide walks you through every step, from setup to deployment, helping you create your own online blog quickly and easily.</p>
+<span id="more"></span>
+
+<h2 id="1-Connect-Git-to-GitHub-SSH-Recommended"><a href="#1-Connect-Git-to-GitHub-SSH-Recommended" class="headerlink" title="1. Connect Git to GitHub (SSH Recommended)"></a>1. Connect Git to GitHub (SSH Recommended)</h2><p>During deployment, we need to enable communication between your local environment and GitHub. It’s recommended to use <strong>SSH</strong> to avoid typing your credentials every time.</p>
+<ol>
+<li><p>Open your terminal (Git Bash on Windows, Terminal on macOS&#x2F;Linux) and generate an SSH key:</p>
+ <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C <span class="string">&quot;your_email@example.com&quot;</span></span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>Replace <code>your_email@example.com</code> with your GitHub account email.</p>
+</blockquote>
+</li>
+<li><p>Press <strong>Enter</strong> three times to accept defaults — your key will be saved in:</p>
+<ul>
+<li>Windows: <code>C:\Users\YourName\.ssh</code>  </li>
+<li>macOS&#x2F;Linux: <code>~/.ssh</code></li>
+</ul>
+</li>
+<li><p>Locate the <strong>id_rsa.pub</strong> file (the public key), open it with a text editor, and copy the contents.</p>
+</li>
+<li><p>Go to <strong>GitHub → Settings → SSH and GPG keys → New SSH key</strong>  </p>
+<ul>
+<li>Title: something like “My PC”  </li>
+<li>Key: paste your public key  </li>
+<li>Click <strong>Add SSH key</strong></li>
+</ul>
+</li>
+<li><p>Test your connection:</p>
+ <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure>
+
+<p> Type <code>yes</code> if prompted. If you see:</p>
+<pre><code> Hi username! You&#39;ve successfully authenticated...
+</code></pre>
+<p> Then the SSH setup is complete.</p>
+</li>
+</ol>
+<hr>
+<h2 id="2-Configure-Hexo-Deployment-to-GitHub"><a href="#2-Configure-Hexo-Deployment-to-GitHub" class="headerlink" title="2. Configure Hexo Deployment to GitHub"></a>2. Configure Hexo Deployment to GitHub</h2><p>After connecting GitHub, edit your Hexo configuration file to enable automatic deployment.</p>
+<h3 id="1-Edit-config-yml"><a href="#1-Edit-config-yml" class="headerlink" title="1. Edit _config.yml"></a>1. Edit <code>_config.yml</code></h3><p>At the end of the file, locate the <strong>deploy</strong> section and modify it like this:</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">deploy:</span></span><br><span class="line">  <span class="attr">type:</span> <span class="string">git</span></span><br><span class="line">  <span class="attr">repo:</span> <span class="string">https://github.com/username/username.github.io.git</span>   <span class="comment"># Or SSH: git@github.com:username/username.github.io.git</span></span><br><span class="line">  <span class="attr">branch:</span> <span class="string">main</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="2-Install-Deployment-Plugin"><a href="#2-Install-Deployment-Plugin" class="headerlink" title="2. Install Deployment Plugin"></a>2. Install Deployment Plugin</h3><p>Run the following command in your Hexo project directory:</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>
+
+<h3 id="3-Configure-Git-User-Info"><a href="#3-Configure-Git-User-Info" class="headerlink" title="3. Configure Git User Info"></a>3. Configure Git User Info</h3><p>Set your global Git username and email (first-time setup only):</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git config --global user.name <span class="string">&quot;yourname&quot;</span></span><br><span class="line">git config --global user.email <span class="string">&quot;youremail@example.com&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>Verify your configuration:</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git config user.name</span><br><span class="line">git config user.email</span><br></pre></td></tr></table></figure>
+
+<hr>
+<h2 id="3-Publish-Blog-to-GitHub-Pages"><a href="#3-Publish-Blog-to-GitHub-Pages" class="headerlink" title="3. Publish Blog to GitHub Pages"></a>3. Publish Blog to GitHub Pages</h2><p>Once everything is configured, you can push your blog to GitHub Pages.</p>
+<ol>
+<li><p><strong>Create a Test Post</strong> (optional):</p>
+ <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new <span class="string">&quot;My First Hexo Blog&quot;</span></span><br></pre></td></tr></table></figure>
+</li>
+<li><p><strong>Generate Static Files:</strong></p>
+ <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo g</span><br></pre></td></tr></table></figure>
+</li>
+<li><p><strong>Deploy to GitHub:</strong></p>
+ <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo d</span><br></pre></td></tr></table></figure>
+</li>
+<li><p><strong>Visit Your Blog:</strong><br> Wait 1–5 minutes, then open:<br> <code>https://username.github.io</code></p>
+</li>
+</ol>
+<hr>
+<h2 id="4-Common-Issues-Fixes"><a href="#4-Common-Issues-Fixes" class="headerlink" title="4. Common Issues &amp; Fixes"></a>4. Common Issues &amp; Fixes</h2><ol>
+<li><p><strong>Can’t Find GitHub Username?</strong><br>Your username is the part after <code>/</code> in your GitHub profile URL. Example:<br><code>https://github.com/octocat</code> → username is <code>octocat</code>.</p>
+</li>
+<li><p><strong>Git Configuration Problems</strong><br>Be sure there’s a space between <code>user.name</code> and <code>&quot;yourname&quot;</code> when setting values:</p>
+ <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git config --global user.name <span class="string">&quot;yourname&quot;</span></span><br><span class="line">git config --global user.email <span class="string">&quot;youremail@example.com&quot;</span></span><br></pre></td></tr></table></figure>
+</li>
+<li><p><strong>Upload Failed or Timeout</strong><br>You may need to set up a proxy or use SSH for better stability.</p>
+</li>
+</ol>
+<hr>
+<h2 id="Summary"><a href="#Summary" class="headerlink" title="Summary"></a>Summary</h2><p>Now you’ve learned how to:</p>
+<ul>
+<li>Connect to GitHub using SSH  </li>
+<li>Configure Hexo for automatic deployment  </li>
+<li>Use <code>hexo g</code> and <code>hexo d</code> to publish your blog online</li>
+</ul>
+<p>Congratulations — your personal Hexo blog is live! 🚀</p>
+]]></content>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>GitHub</tag>
+        <tag>Deployment</tag>
+        <tag>Tutorial</tag>
       </tags>
   </entry>
 </search>
