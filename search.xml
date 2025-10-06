@@ -24,55 +24,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Writing and Publishing Your First Blog with Hexo on GitHub Pages</title>
-    <url>/32784/</url>
-    <content><![CDATA[<p>In the previous article, we completed the basic setup of <strong>Hexo</strong> and successfully deployed the site to <strong>GitHub Pages</strong>. Today, let’s write your first blog post and publish it online.</p>
-<h2 id="1-Create-a-New-Post"><a href="#1-Create-a-New-Post" class="headerlink" title="1. Create a New Post"></a>1. Create a New Post</h2><p>Run the following command in your Hexo project root directory:</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new post <span class="string">&quot;My First Blog&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>This will generate a Markdown file under <code>source/_posts/</code> named <code>My First Blog.md</code>.</p>
-<p>You can open it with your favorite editor (such as VS Code) and start writing:</p>
-<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: My First Blog</span><br><span class="line">date: 2025-09-21 12:00:00</span><br><span class="line"><span class="section">tags: [Essay, Hexo]</span></span><br><span class="line"><span class="section">---</span></span><br><span class="line"></span><br><span class="line">This is my first blog post written with Hexo!</span><br><span class="line"></span><br><span class="line">I’ll be sharing more technical tutorials here in the future.</span><br></pre></td></tr></table></figure>
-
-<hr>
-<h2 id="2-Preview-Locally"><a href="#2-Preview-Locally" class="headerlink" title="2. Preview Locally"></a>2. Preview Locally</h2><p>Once finished, start the local Hexo server to preview the result:</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure>
-
-<p>Visit <code>http://localhost:4000</code> in your browser — you should see your new post on the homepage.</p>
-<hr>
-<h2 id="3-Generate-Static-Files"><a href="#3-Generate-Static-Files" class="headerlink" title="3. Generate Static Files"></a>3. Generate Static Files</h2><p>If everything looks fine, generate the static files:</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>(Shortcut: <code>hexo g</code>)</p>
-<p>The generated files will be stored in the <code>public/</code> folder.</p>
-<hr>
-<h2 id="4-Deploy-to-GitHub-Pages"><a href="#4-Deploy-to-GitHub-Pages" class="headerlink" title="4. Deploy to GitHub Pages"></a>4. Deploy to GitHub Pages</h2><p>Finally, deploy your blog online by running:</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>(Shortcut: <code>hexo d</code>)</p>
-<p>After a few seconds, you’ll be able to access your post at your GitHub Pages address, e.g.:<br><code>https://yourusername.github.io/</code></p>
-<hr>
-<h2 id="5-Summary"><a href="#5-Summary" class="headerlink" title="5. Summary"></a>5. Summary</h2><p>Here’s the full workflow of writing and publishing a Hexo post on <strong>GitHub Pages</strong>:</p>
-<ol>
-<li><code>hexo new post &quot;Post Title&quot;</code> → Create a new post  </li>
-<li>Edit the post content  </li>
-<li><code>hexo s</code> → Preview locally  </li>
-<li><code>hexo g</code> → Generate static files  </li>
-<li><code>hexo d</code> → Deploy to GitHub Pages  </li>
-<li>Always run <code>hexo clean</code> before deploying to clear old cache!</li>
-</ol>
-<p>Simple, right? 🎉<br>Now you can continue writing more posts or start customizing your theme!</p>
-]]></content>
-      <categories>
-        <category>Blog Tutorial</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-        <tag>Blogging</tag>
-        <tag>GitHub Pages</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Deploying a Hexo Blog on GitHub Pages — A Complete Guide</title>
     <url>/56213/</url>
     <content><![CDATA[<p>When it comes to building a personal blog, <strong>Hexo + GitHub Pages</strong> is one of the most popular solutions.<br>This guide walks you through every step, from setup to deployment, helping you create your own online blog quickly and easily.</p>
@@ -164,6 +115,55 @@
         <tag>GitHub</tag>
         <tag>Deployment</tag>
         <tag>Tutorial</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Writing and Publishing Your First Blog with Hexo on GitHub Pages</title>
+    <url>/32784/</url>
+    <content><![CDATA[<p>In the previous article, we completed the basic setup of <strong>Hexo</strong> and successfully deployed the site to <strong>GitHub Pages</strong>. Today, let’s write your first blog post and publish it online.</p>
+<h2 id="1-Create-a-New-Post"><a href="#1-Create-a-New-Post" class="headerlink" title="1. Create a New Post"></a>1. Create a New Post</h2><p>Run the following command in your Hexo project root directory:</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new post <span class="string">&quot;My First Blog&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>This will generate a Markdown file under <code>source/_posts/</code> named <code>My First Blog.md</code>.</p>
+<p>You can open it with your favorite editor (such as VS Code) and start writing:</p>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: My First Blog</span><br><span class="line">date: 2025-09-21 12:00:00</span><br><span class="line"><span class="section">tags: [Essay, Hexo]</span></span><br><span class="line"><span class="section">---</span></span><br><span class="line"></span><br><span class="line">This is my first blog post written with Hexo!</span><br><span class="line"></span><br><span class="line">I’ll be sharing more technical tutorials here in the future.</span><br></pre></td></tr></table></figure>
+
+<hr>
+<h2 id="2-Preview-Locally"><a href="#2-Preview-Locally" class="headerlink" title="2. Preview Locally"></a>2. Preview Locally</h2><p>Once finished, start the local Hexo server to preview the result:</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure>
+
+<p>Visit <code>http://localhost:4000</code> in your browser — you should see your new post on the homepage.</p>
+<hr>
+<h2 id="3-Generate-Static-Files"><a href="#3-Generate-Static-Files" class="headerlink" title="3. Generate Static Files"></a>3. Generate Static Files</h2><p>If everything looks fine, generate the static files:</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>(Shortcut: <code>hexo g</code>)</p>
+<p>The generated files will be stored in the <code>public/</code> folder.</p>
+<hr>
+<h2 id="4-Deploy-to-GitHub-Pages"><a href="#4-Deploy-to-GitHub-Pages" class="headerlink" title="4. Deploy to GitHub Pages"></a>4. Deploy to GitHub Pages</h2><p>Finally, deploy your blog online by running:</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>(Shortcut: <code>hexo d</code>)</p>
+<p>After a few seconds, you’ll be able to access your post at your GitHub Pages address, e.g.:<br><code>https://yourusername.github.io/</code></p>
+<hr>
+<h2 id="5-Summary"><a href="#5-Summary" class="headerlink" title="5. Summary"></a>5. Summary</h2><p>Here’s the full workflow of writing and publishing a Hexo post on <strong>GitHub Pages</strong>:</p>
+<ol>
+<li><code>hexo new post &quot;Post Title&quot;</code> → Create a new post  </li>
+<li>Edit the post content  </li>
+<li><code>hexo s</code> → Preview locally  </li>
+<li><code>hexo g</code> → Generate static files  </li>
+<li><code>hexo d</code> → Deploy to GitHub Pages  </li>
+<li>Always run <code>hexo clean</code> before deploying to clear old cache!</li>
+</ol>
+<p>Simple, right? 🎉<br>Now you can continue writing more posts or start customizing your theme!</p>
+]]></content>
+      <categories>
+        <category>Blog Tutorial</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>Blogging</tag>
+        <tag>GitHub Pages</tag>
       </tags>
   </entry>
   <entry>
