@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yu-blog.top/13399/</loc>
+    
+    <lastmod>2025-10-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yu-blog.top/63190/</loc>
+    
+    <lastmod>2025-10-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://yu-blog.top/91327/</loc>
     
     <lastmod>2025-10-06</lastmod>
@@ -63,6 +81,20 @@
   </url>
   
   <url>
+    <loc>https://yu-blog.top/tags/Blogging/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yu-blog.top/tags/GitHub-Pages/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://yu-blog.top/tags/GitHub/</loc>
     <lastmod>2025-10-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -98,20 +130,6 @@
   </url>
   
   <url>
-    <loc>https://yu-blog.top/tags/Blogging/</loc>
-    <lastmod>2025-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yu-blog.top/tags/GitHub-Pages/</loc>
-    <lastmod>2025-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://yu-blog.top/tags/welcome/</loc>
     <lastmod>2025-10-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -132,14 +150,70 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://yu-blog.top/categories/Essay/</loc>
+    <loc>https://yu-blog.top/tags/Anti-Japanese-War-Memorial-Day/</loc>
     <lastmod>2025-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
+  
+  <url>
+    <loc>https://yu-blog.top/tags/History/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yu-blog.top/tags/Peace/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yu-blog.top/tags/Python/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yu-blog.top/tags/VSCode/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yu-blog.top/tags/IDE/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yu-blog.top/tags/PyCharm/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yu-blog.top/tags/Jupyter/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yu-blog.top/tags/Editor/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
   
   <url>
     <loc>https://yu-blog.top/categories/Blog-Tutorial/</loc>
@@ -149,7 +223,35 @@
   </url>
   
   <url>
+    <loc>https://yu-blog.top/categories/Essay/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://yu-blog.top/categories/General/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yu-blog.top/categories/Essays/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yu-blog.top/categories/Python/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yu-blog.top/categories/Python/Tool-Recommendations/</loc>
     <lastmod>2025-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
