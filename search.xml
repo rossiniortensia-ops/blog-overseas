@@ -25,7 +25,7 @@
   </entry>
   <entry>
     <title>The Origin and Blessings of the Mid-Autumn Festival</title>
-    <url>/undefined/</url>
+    <url>/32785/</url>
     <content><![CDATA[<h1 id="🌕-The-Origin-and-Blessings-of-the-Mid-Autumn-Festival"><a href="#🌕-The-Origin-and-Blessings-of-the-Mid-Autumn-Festival" class="headerlink" title="🌕 The Origin and Blessings of the Mid-Autumn Festival"></a>🌕 The Origin and Blessings of the Mid-Autumn Festival</h1><p>The <strong>Mid-Autumn Festival</strong>, also known as the <em>Moon Festival</em> or <em>Mooncake Festival</em>, is one of China’s four major traditional holidays. It originated from ancient moon worship and autumn harvest celebrations. According to historical records, it became an official festival during the Tang Dynasty and was widely celebrated among the people by the Song Dynasty. On this day, families gather to admire the moon, eat mooncakes, and celebrate reunion.</p>
 <p>The famous legend of <em>Chang’e flying to the moon</em> adds a touch of romance to this festival. Over time, the moon came to symbolize homesickness, longing, and family reunion — making the Mid-Autumn Festival a celebration of togetherness and affection.</p>
 <hr>
@@ -54,97 +54,52 @@
       </tags>
   </entry>
   <entry>
-    <title>Deploying a Hexo Blog on GitHub Pages — A Complete Guide</title>
-    <url>/56213/</url>
-    <content><![CDATA[<p>When it comes to building a personal blog, <strong>Hexo + GitHub Pages</strong> is one of the most popular solutions.<br>This guide walks you through every step, from setup to deployment, helping you create your own online blog quickly and easily.</p>
-<span id="more"></span>
+    <title>Writing and Publishing Your First Blog with Hexo on GitHub Pages</title>
+    <url>/32784/</url>
+    <content><![CDATA[<p>In the previous article, we completed the basic setup of <strong>Hexo</strong> and successfully deployed the site to <strong>GitHub Pages</strong>. Today, let’s write your first blog post and publish it online.</p>
+<h2 id="1-Create-a-New-Post"><a href="#1-Create-a-New-Post" class="headerlink" title="1. Create a New Post"></a>1. Create a New Post</h2><p>Run the following command in your Hexo project root directory:</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new post <span class="string">&quot;My First Blog&quot;</span></span><br></pre></td></tr></table></figure>
 
-<h2 id="1-Connect-Git-to-GitHub-SSH-Recommended"><a href="#1-Connect-Git-to-GitHub-SSH-Recommended" class="headerlink" title="1. Connect Git to GitHub (SSH Recommended)"></a>1. Connect Git to GitHub (SSH Recommended)</h2><p>During deployment, we need to enable communication between your local environment and GitHub. It’s recommended to use <strong>SSH</strong> to avoid typing your credentials every time.</p>
+<p>This will generate a Markdown file under <code>source/_posts/</code> named <code>My First Blog.md</code>.</p>
+<p>You can open it with your favorite editor (such as VS Code) and start writing:</p>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: My First Blog</span><br><span class="line">date: 2025-09-21 12:00:00</span><br><span class="line"><span class="section">tags: [Essay, Hexo]</span></span><br><span class="line"><span class="section">---</span></span><br><span class="line"></span><br><span class="line">This is my first blog post written with Hexo!</span><br><span class="line"></span><br><span class="line">I’ll be sharing more technical tutorials here in the future.</span><br></pre></td></tr></table></figure>
+
+<hr>
+<h2 id="2-Preview-Locally"><a href="#2-Preview-Locally" class="headerlink" title="2. Preview Locally"></a>2. Preview Locally</h2><p>Once finished, start the local Hexo server to preview the result:</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure>
+
+<p>Visit <code>http://localhost:4000</code> in your browser — you should see your new post on the homepage.</p>
+<hr>
+<h2 id="3-Generate-Static-Files"><a href="#3-Generate-Static-Files" class="headerlink" title="3. Generate Static Files"></a>3. Generate Static Files</h2><p>If everything looks fine, generate the static files:</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>(Shortcut: <code>hexo g</code>)</p>
+<p>The generated files will be stored in the <code>public/</code> folder.</p>
+<hr>
+<h2 id="4-Deploy-to-GitHub-Pages"><a href="#4-Deploy-to-GitHub-Pages" class="headerlink" title="4. Deploy to GitHub Pages"></a>4. Deploy to GitHub Pages</h2><p>Finally, deploy your blog online by running:</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>(Shortcut: <code>hexo d</code>)</p>
+<p>After a few seconds, you’ll be able to access your post at your GitHub Pages address, e.g.:<br><code>https://yourusername.github.io/</code></p>
+<hr>
+<h2 id="5-Summary"><a href="#5-Summary" class="headerlink" title="5. Summary"></a>5. Summary</h2><p>Here’s the full workflow of writing and publishing a Hexo post on <strong>GitHub Pages</strong>:</p>
 <ol>
-<li><p>Open your terminal (Git Bash on Windows, Terminal on macOS&#x2F;Linux) and generate an SSH key:</p>
- <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C <span class="string">&quot;your_email@example.com&quot;</span></span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>Replace <code>your_email@example.com</code> with your GitHub account email.</p>
-</blockquote>
-</li>
-<li><p>Press <strong>Enter</strong> three times to accept defaults — your key will be saved in:</p>
-<ul>
-<li>Windows: <code>C:\Users\YourName\.ssh</code>  </li>
-<li>macOS&#x2F;Linux: <code>~/.ssh</code></li>
-</ul>
-</li>
-<li><p>Locate the <strong>id_rsa.pub</strong> file (the public key), open it with a text editor, and copy the contents.</p>
-</li>
-<li><p>Go to <strong>GitHub → Settings → SSH and GPG keys → New SSH key</strong>  </p>
-<ul>
-<li>Title: something like “My PC”  </li>
-<li>Key: paste your public key  </li>
-<li>Click <strong>Add SSH key</strong></li>
-</ul>
-</li>
-<li><p>Test your connection:</p>
- <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure>
-
-<p> Type <code>yes</code> if prompted. If you see:</p>
-<pre><code> Hi username! You&#39;ve successfully authenticated...
-</code></pre>
-<p> Then the SSH setup is complete.</p>
-</li>
+<li><code>hexo new post &quot;Post Title&quot;</code> → Create a new post  </li>
+<li>Edit the post content  </li>
+<li><code>hexo s</code> → Preview locally  </li>
+<li><code>hexo g</code> → Generate static files  </li>
+<li><code>hexo d</code> → Deploy to GitHub Pages  </li>
+<li>Always run <code>hexo clean</code> before deploying to clear old cache!</li>
 </ol>
-<hr>
-<h2 id="2-Configure-Hexo-Deployment-to-GitHub"><a href="#2-Configure-Hexo-Deployment-to-GitHub" class="headerlink" title="2. Configure Hexo Deployment to GitHub"></a>2. Configure Hexo Deployment to GitHub</h2><p>After connecting GitHub, edit your Hexo configuration file to enable automatic deployment.</p>
-<h3 id="1-Edit-config-yml"><a href="#1-Edit-config-yml" class="headerlink" title="1. Edit _config.yml"></a>1. Edit <code>_config.yml</code></h3><p>At the end of the file, locate the <strong>deploy</strong> section and modify it like this:</p>
-<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">deploy:</span></span><br><span class="line">  <span class="attr">type:</span> <span class="string">git</span></span><br><span class="line">  <span class="attr">repo:</span> <span class="string">https://github.com/username/username.github.io.git</span>   <span class="comment"># Or SSH: git@github.com:username/username.github.io.git</span></span><br><span class="line">  <span class="attr">branch:</span> <span class="string">main</span></span><br></pre></td></tr></table></figure>
-
-<h3 id="2-Install-Deployment-Plugin"><a href="#2-Install-Deployment-Plugin" class="headerlink" title="2. Install Deployment Plugin"></a>2. Install Deployment Plugin</h3><p>Run the following command in your Hexo project directory:</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>
-
-<h3 id="3-Configure-Git-User-Info"><a href="#3-Configure-Git-User-Info" class="headerlink" title="3. Configure Git User Info"></a>3. Configure Git User Info</h3><p>Set your global Git username and email (first-time setup only):</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git config --global user.name <span class="string">&quot;yourname&quot;</span></span><br><span class="line">git config --global user.email <span class="string">&quot;youremail@example.com&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>Verify your configuration:</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git config user.name</span><br><span class="line">git config user.email</span><br></pre></td></tr></table></figure>
-
-<hr>
-<h2 id="3-Publish-Blog-to-GitHub-Pages"><a href="#3-Publish-Blog-to-GitHub-Pages" class="headerlink" title="3. Publish Blog to GitHub Pages"></a>3. Publish Blog to GitHub Pages</h2><p>Once everything is configured, you can push your blog to GitHub Pages.</p>
-<ol>
-<li><p><strong>Create a Test Post</strong> (optional):</p>
- <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new <span class="string">&quot;My First Hexo Blog&quot;</span></span><br></pre></td></tr></table></figure>
-</li>
-<li><p><strong>Generate Static Files:</strong></p>
- <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo g</span><br></pre></td></tr></table></figure>
-</li>
-<li><p><strong>Deploy to GitHub:</strong></p>
- <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo d</span><br></pre></td></tr></table></figure>
-</li>
-<li><p><strong>Visit Your Blog:</strong><br> Wait 1–5 minutes, then open:<br> <code>https://username.github.io</code></p>
-</li>
-</ol>
-<hr>
-<h2 id="4-Common-Issues-Fixes"><a href="#4-Common-Issues-Fixes" class="headerlink" title="4. Common Issues &amp; Fixes"></a>4. Common Issues &amp; Fixes</h2><ol>
-<li><p><strong>Can’t Find GitHub Username?</strong><br>Your username is the part after <code>/</code> in your GitHub profile URL. Example:<br><code>https://github.com/octocat</code> → username is <code>octocat</code>.</p>
-</li>
-<li><p><strong>Git Configuration Problems</strong><br>Be sure there’s a space between <code>user.name</code> and <code>&quot;yourname&quot;</code> when setting values:</p>
- <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git config --global user.name <span class="string">&quot;yourname&quot;</span></span><br><span class="line">git config --global user.email <span class="string">&quot;youremail@example.com&quot;</span></span><br></pre></td></tr></table></figure>
-</li>
-<li><p><strong>Upload Failed or Timeout</strong><br>You may need to set up a proxy or use SSH for better stability.</p>
-</li>
-</ol>
-<hr>
-<h2 id="Summary"><a href="#Summary" class="headerlink" title="Summary"></a>Summary</h2><p>Now you’ve learned how to:</p>
-<ul>
-<li>Connect to GitHub using SSH  </li>
-<li>Configure Hexo for automatic deployment  </li>
-<li>Use <code>hexo g</code> and <code>hexo d</code> to publish your blog online</li>
-</ul>
-<p>Congratulations — your personal Hexo blog is live! 🚀</p>
+<p>Simple, right? 🎉<br>Now you can continue writing more posts or start customizing your theme!</p>
 ]]></content>
+      <categories>
+        <category>Blog Tutorial</category>
+      </categories>
       <tags>
         <tag>Hexo</tag>
-        <tag>GitHub</tag>
-        <tag>Deployment</tag>
-        <tag>Tutorial</tag>
+        <tag>Blogging</tag>
+        <tag>GitHub Pages</tag>
       </tags>
   </entry>
   <entry>
@@ -305,67 +260,135 @@
         <category>Tool Recommendations</category>
       </categories>
       <tags>
-        <tag>Tutorial</tag>
         <tag>Python</tag>
         <tag>VSCode</tag>
         <tag>IDE</tag>
         <tag>PyCharm</tag>
         <tag>Jupyter</tag>
         <tag>Editor</tag>
+        <tag>Tutorial</tag>
       </tags>
   </entry>
   <entry>
-    <title>Writing and Publishing Your First Blog with Hexo on GitHub Pages</title>
-    <url>/32784/</url>
-    <content><![CDATA[<p>In the previous article, we completed the basic setup of <strong>Hexo</strong> and successfully deployed the site to <strong>GitHub Pages</strong>. Today, let’s write your first blog post and publish it online.</p>
-<h2 id="1-Create-a-New-Post"><a href="#1-Create-a-New-Post" class="headerlink" title="1. Create a New Post"></a>1. Create a New Post</h2><p>Run the following command in your Hexo project root directory:</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new post <span class="string">&quot;My First Blog&quot;</span></span><br></pre></td></tr></table></figure>
+    <title>Deploying a Hexo Blog on GitHub Pages — A Complete Guide</title>
+    <url>/56213/</url>
+    <content><![CDATA[<p>When it comes to building a personal blog, <strong>Hexo + GitHub Pages</strong> is one of the most popular solutions.<br>This guide walks you through every step, from setup to deployment, helping you create your own online blog quickly and easily.</p>
+<span id="more"></span>
 
-<p>This will generate a Markdown file under <code>source/_posts/</code> named <code>My First Blog.md</code>.</p>
-<p>You can open it with your favorite editor (such as VS Code) and start writing:</p>
-<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: My First Blog</span><br><span class="line">date: 2025-09-21 12:00:00</span><br><span class="line"><span class="section">tags: [Essay, Hexo]</span></span><br><span class="line"><span class="section">---</span></span><br><span class="line"></span><br><span class="line">This is my first blog post written with Hexo!</span><br><span class="line"></span><br><span class="line">I’ll be sharing more technical tutorials here in the future.</span><br></pre></td></tr></table></figure>
-
-<hr>
-<h2 id="2-Preview-Locally"><a href="#2-Preview-Locally" class="headerlink" title="2. Preview Locally"></a>2. Preview Locally</h2><p>Once finished, start the local Hexo server to preview the result:</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure>
-
-<p>Visit <code>http://localhost:4000</code> in your browser — you should see your new post on the homepage.</p>
-<hr>
-<h2 id="3-Generate-Static-Files"><a href="#3-Generate-Static-Files" class="headerlink" title="3. Generate Static Files"></a>3. Generate Static Files</h2><p>If everything looks fine, generate the static files:</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>(Shortcut: <code>hexo g</code>)</p>
-<p>The generated files will be stored in the <code>public/</code> folder.</p>
-<hr>
-<h2 id="4-Deploy-to-GitHub-Pages"><a href="#4-Deploy-to-GitHub-Pages" class="headerlink" title="4. Deploy to GitHub Pages"></a>4. Deploy to GitHub Pages</h2><p>Finally, deploy your blog online by running:</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>(Shortcut: <code>hexo d</code>)</p>
-<p>After a few seconds, you’ll be able to access your post at your GitHub Pages address, e.g.:<br><code>https://yourusername.github.io/</code></p>
-<hr>
-<h2 id="5-Summary"><a href="#5-Summary" class="headerlink" title="5. Summary"></a>5. Summary</h2><p>Here’s the full workflow of writing and publishing a Hexo post on <strong>GitHub Pages</strong>:</p>
+<h2 id="1-Connect-Git-to-GitHub-SSH-Recommended"><a href="#1-Connect-Git-to-GitHub-SSH-Recommended" class="headerlink" title="1. Connect Git to GitHub (SSH Recommended)"></a>1. Connect Git to GitHub (SSH Recommended)</h2><p>During deployment, we need to enable communication between your local environment and GitHub. It’s recommended to use <strong>SSH</strong> to avoid typing your credentials every time.</p>
 <ol>
-<li><code>hexo new post &quot;Post Title&quot;</code> → Create a new post  </li>
-<li>Edit the post content  </li>
-<li><code>hexo s</code> → Preview locally  </li>
-<li><code>hexo g</code> → Generate static files  </li>
-<li><code>hexo d</code> → Deploy to GitHub Pages  </li>
-<li>Always run <code>hexo clean</code> before deploying to clear old cache!</li>
+<li><p>Open your terminal (Git Bash on Windows, Terminal on macOS&#x2F;Linux) and generate an SSH key:</p>
+ <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C <span class="string">&quot;your_email@example.com&quot;</span></span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>Replace <code>your_email@example.com</code> with your GitHub account email.</p>
+</blockquote>
+</li>
+<li><p>Press <strong>Enter</strong> three times to accept defaults — your key will be saved in:</p>
+<ul>
+<li>Windows: <code>C:\Users\YourName\.ssh</code>  </li>
+<li>macOS&#x2F;Linux: <code>~/.ssh</code></li>
+</ul>
+</li>
+<li><p>Locate the <strong>id_rsa.pub</strong> file (the public key), open it with a text editor, and copy the contents.</p>
+</li>
+<li><p>Go to <strong>GitHub → Settings → SSH and GPG keys → New SSH key</strong>  </p>
+<ul>
+<li>Title: something like “My PC”  </li>
+<li>Key: paste your public key  </li>
+<li>Click <strong>Add SSH key</strong></li>
+</ul>
+</li>
+<li><p>Test your connection:</p>
+ <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure>
+
+<p> Type <code>yes</code> if prompted. If you see:</p>
+<pre><code> Hi username! You&#39;ve successfully authenticated...
+</code></pre>
+<p> Then the SSH setup is complete.</p>
+</li>
 </ol>
-<p>Simple, right? 🎉<br>Now you can continue writing more posts or start customizing your theme!</p>
+<hr>
+<h2 id="2-Configure-Hexo-Deployment-to-GitHub"><a href="#2-Configure-Hexo-Deployment-to-GitHub" class="headerlink" title="2. Configure Hexo Deployment to GitHub"></a>2. Configure Hexo Deployment to GitHub</h2><p>After connecting GitHub, edit your Hexo configuration file to enable automatic deployment.</p>
+<h3 id="1-Edit-config-yml"><a href="#1-Edit-config-yml" class="headerlink" title="1. Edit _config.yml"></a>1. Edit <code>_config.yml</code></h3><p>At the end of the file, locate the <strong>deploy</strong> section and modify it like this:</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">deploy:</span></span><br><span class="line">  <span class="attr">type:</span> <span class="string">git</span></span><br><span class="line">  <span class="attr">repo:</span> <span class="string">https://github.com/username/username.github.io.git</span>   <span class="comment"># Or SSH: git@github.com:username/username.github.io.git</span></span><br><span class="line">  <span class="attr">branch:</span> <span class="string">main</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="2-Install-Deployment-Plugin"><a href="#2-Install-Deployment-Plugin" class="headerlink" title="2. Install Deployment Plugin"></a>2. Install Deployment Plugin</h3><p>Run the following command in your Hexo project directory:</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>
+
+<h3 id="3-Configure-Git-User-Info"><a href="#3-Configure-Git-User-Info" class="headerlink" title="3. Configure Git User Info"></a>3. Configure Git User Info</h3><p>Set your global Git username and email (first-time setup only):</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git config --global user.name <span class="string">&quot;yourname&quot;</span></span><br><span class="line">git config --global user.email <span class="string">&quot;youremail@example.com&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>Verify your configuration:</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git config user.name</span><br><span class="line">git config user.email</span><br></pre></td></tr></table></figure>
+
+<hr>
+<h2 id="3-Publish-Blog-to-GitHub-Pages"><a href="#3-Publish-Blog-to-GitHub-Pages" class="headerlink" title="3. Publish Blog to GitHub Pages"></a>3. Publish Blog to GitHub Pages</h2><p>Once everything is configured, you can push your blog to GitHub Pages.</p>
+<ol>
+<li><p><strong>Create a Test Post</strong> (optional):</p>
+ <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new <span class="string">&quot;My First Hexo Blog&quot;</span></span><br></pre></td></tr></table></figure>
+</li>
+<li><p><strong>Generate Static Files:</strong></p>
+ <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo g</span><br></pre></td></tr></table></figure>
+</li>
+<li><p><strong>Deploy to GitHub:</strong></p>
+ <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo d</span><br></pre></td></tr></table></figure>
+</li>
+<li><p><strong>Visit Your Blog:</strong><br> Wait 1–5 minutes, then open:<br> <code>https://username.github.io</code></p>
+</li>
+</ol>
+<hr>
+<h2 id="4-Common-Issues-Fixes"><a href="#4-Common-Issues-Fixes" class="headerlink" title="4. Common Issues &amp; Fixes"></a>4. Common Issues &amp; Fixes</h2><ol>
+<li><p><strong>Can’t Find GitHub Username?</strong><br>Your username is the part after <code>/</code> in your GitHub profile URL. Example:<br><code>https://github.com/octocat</code> → username is <code>octocat</code>.</p>
+</li>
+<li><p><strong>Git Configuration Problems</strong><br>Be sure there’s a space between <code>user.name</code> and <code>&quot;yourname&quot;</code> when setting values:</p>
+ <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git config --global user.name <span class="string">&quot;yourname&quot;</span></span><br><span class="line">git config --global user.email <span class="string">&quot;youremail@example.com&quot;</span></span><br></pre></td></tr></table></figure>
+</li>
+<li><p><strong>Upload Failed or Timeout</strong><br>You may need to set up a proxy or use SSH for better stability.</p>
+</li>
+</ol>
+<hr>
+<h2 id="Summary"><a href="#Summary" class="headerlink" title="Summary"></a>Summary</h2><p>Now you’ve learned how to:</p>
+<ul>
+<li>Connect to GitHub using SSH  </li>
+<li>Configure Hexo for automatic deployment  </li>
+<li>Use <code>hexo g</code> and <code>hexo d</code> to publish your blog online</li>
+</ul>
+<p>Congratulations — your personal Hexo blog is live! 🚀</p>
 ]]></content>
-      <categories>
-        <category>Blog Tutorial</category>
-      </categories>
       <tags>
         <tag>Hexo</tag>
-        <tag>Blogging</tag>
-        <tag>GitHub Pages</tag>
+        <tag>Tutorial</tag>
+        <tag>GitHub</tag>
+        <tag>Deployment</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Remembering History, Cherishing Peace — 80th Anniversary of the Victory of Chinese People&#39;s War of Resistance Against Japanese Aggression and World Anti-Fascist War</title>
+    <url>/13399/</url>
+    <content><![CDATA[<h1 id="Remembering-History-to-Safeguard-Peace-Passing-the-Torch-to-the-Future-—-Written-on-September-3rd-the-80th-Anniversary-of-the-Victory-of-Chinese-People’s-War-of-Resistance-Against-Japanese-Aggression-and-World-Anti-Fascist-War-✊🕊️"><a href="#Remembering-History-to-Safeguard-Peace-Passing-the-Torch-to-the-Future-—-Written-on-September-3rd-the-80th-Anniversary-of-the-Victory-of-Chinese-People’s-War-of-Resistance-Against-Japanese-Aggression-and-World-Anti-Fascist-War-✊🕊️" class="headerlink" title="Remembering History to Safeguard Peace, Passing the Torch to the Future — Written on September 3rd, the 80th Anniversary of the Victory of Chinese People’s War of Resistance Against Japanese Aggression and World Anti-Fascist War ✊🕊️"></a>Remembering History to Safeguard Peace, Passing the Torch to the Future — Written on September 3rd, the 80th Anniversary of the Victory of Chinese People’s War of Resistance Against Japanese Aggression and World Anti-Fascist War ✊🕊️</h1><p>Today is <strong>September 3rd</strong> — a special day engraved deep in the memory of the Chinese nation and forever recorded in the annals of world peace. Eighty years ago at this moment, after 14 years of bloody struggle, the Chinese people finally welcomed the great victory of the Chinese People’s War of Resistance Against Japanese Aggression. Meanwhile, the world anti-fascist alliance fought side by side, completely crushing the aggressive ambitions of fascism and letting the dawn of peace shine again on the land devastated by war.</p>
+<p>Looking back at those years of broken mountains and rivers, stormy times, the Chinese people, under extremely harsh conditions, with the national integrity of “better to be broken jade than intact tile,” used their flesh and blood to build the Great Wall against foreign invasion. From the great victory at Pingxingguan that broke the myth of “Japanese invincibility,” to the Hundred Regiments Offensive that boosted national morale; from countless martyrs’ heroic “sacrificing lives for the country, viewing death as homecoming,” to hundreds of millions of people’s perseverance of “one inch of mountains and rivers, one inch of blood; one hundred thousand youths, one hundred thousand soldiers” — we exchanged the dignity of national independence with the tremendous sacrifice of 35 million compatriots, and made indelible contributions to the victory of the world anti-fascist war.</p>
+<p>Remembering this history has never been about perpetuating hatred, but about drawing strength from suffering and safeguarding peace through commemoration. Today’s national peace and tranquil years are the “hard-won” gift exchanged by countless martyrs with their lives. In this happiness lies the belief we must uphold:</p>
+<ul>
+<li><strong>Peace is the most precious gift</strong>. Having experienced the ravages of war, we better understand the value of tranquility. Every ordinary day of stable life is a treasure that we need to cherish and defend with action, tolerating no slack or carelessness.</li>
+<li><strong>History is the spiritual backbone of the nation</strong>. Those heroic stories engraved in mountains and rivers, the spirit of resistance flowing in our bloodline, are the confidence for the Chinese nation to weather storms and forge ahead. Forgetting history equals severing the spiritual genes of the nation; remembering history keeps the nation’s backbone forever upright.</li>
+<li><strong>Self-strengthening is the foundation for safeguarding the future</strong>. The victory 80 years ago tells us that only through unity and self-improvement can we resist risks and control our destiny. Today, we need to learn from history, strive in our respective positions, and use national prosperity and national rejuvenation to build a solid foundation for peace, making the bright future increasingly stable through generations.</li>
+</ul>
+<p>Eighty years have passed, mountains and rivers have taken on a new appearance, but the echoes of that history have never faded. Let us move forward with commemoration for martyrs, cherishing peace, and expectations for the future — with the youth of our generation, protecting prosperous China, letting the torch of peace pass on forever, and the spirit of the nation continue through generations.</p>
+<p>🕯️ <strong>Let us jointly remember history, pay tribute to heroes, cherish peace, and create a better future!</strong> 🕊️</p>
+]]></content>
+      <categories>
+        <category>Essays</category>
+      </categories>
+      <tags>
+        <tag>Anti-Japanese War Memorial Day</tag>
+        <tag>History</tag>
+        <tag>Peace</tag>
       </tags>
   </entry>
   <entry>
     <title>Welcome to Yu&#39;s Tech Blog!</title>
-    <url>/undefined/</url>
+    <url>/32793/</url>
     <content><![CDATA[<p>Hello and welcome to my tech blog! 🎉</p>
 <h2 id="A-Warm-Welcome"><a href="#A-Warm-Welcome" class="headerlink" title="A Warm Welcome"></a>A Warm Welcome</h2><p>I’m thrilled to have you here on my digital journey through the world of web development and programming. This is <strong>Yu’s Tech Blog</strong> - a space where I share my learning experiences, coding adventures, and technical discoveries as a passionate 17-year-old developer.</p>
 <span id="more"></span>
@@ -445,29 +468,6 @@
         <tag>welcome</tag>
         <tag>introduction</tag>
         <tag>tech blog</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Remembering History, Cherishing Peace — 80th Anniversary of the Victory of Chinese People&#39;s War of Resistance Against Japanese Aggression and World Anti-Fascist War</title>
-    <url>/13399/</url>
-    <content><![CDATA[<h1 id="Remembering-History-to-Safeguard-Peace-Passing-the-Torch-to-the-Future-—-Written-on-September-3rd-the-80th-Anniversary-of-the-Victory-of-Chinese-People’s-War-of-Resistance-Against-Japanese-Aggression-and-World-Anti-Fascist-War-✊🕊️"><a href="#Remembering-History-to-Safeguard-Peace-Passing-the-Torch-to-the-Future-—-Written-on-September-3rd-the-80th-Anniversary-of-the-Victory-of-Chinese-People’s-War-of-Resistance-Against-Japanese-Aggression-and-World-Anti-Fascist-War-✊🕊️" class="headerlink" title="Remembering History to Safeguard Peace, Passing the Torch to the Future — Written on September 3rd, the 80th Anniversary of the Victory of Chinese People’s War of Resistance Against Japanese Aggression and World Anti-Fascist War ✊🕊️"></a>Remembering History to Safeguard Peace, Passing the Torch to the Future — Written on September 3rd, the 80th Anniversary of the Victory of Chinese People’s War of Resistance Against Japanese Aggression and World Anti-Fascist War ✊🕊️</h1><p>Today is <strong>September 3rd</strong> — a special day engraved deep in the memory of the Chinese nation and forever recorded in the annals of world peace. Eighty years ago at this moment, after 14 years of bloody struggle, the Chinese people finally welcomed the great victory of the Chinese People’s War of Resistance Against Japanese Aggression. Meanwhile, the world anti-fascist alliance fought side by side, completely crushing the aggressive ambitions of fascism and letting the dawn of peace shine again on the land devastated by war.</p>
-<p>Looking back at those years of broken mountains and rivers, stormy times, the Chinese people, under extremely harsh conditions, with the national integrity of “better to be broken jade than intact tile,” used their flesh and blood to build the Great Wall against foreign invasion. From the great victory at Pingxingguan that broke the myth of “Japanese invincibility,” to the Hundred Regiments Offensive that boosted national morale; from countless martyrs’ heroic “sacrificing lives for the country, viewing death as homecoming,” to hundreds of millions of people’s perseverance of “one inch of mountains and rivers, one inch of blood; one hundred thousand youths, one hundred thousand soldiers” — we exchanged the dignity of national independence with the tremendous sacrifice of 35 million compatriots, and made indelible contributions to the victory of the world anti-fascist war.</p>
-<p>Remembering this history has never been about perpetuating hatred, but about drawing strength from suffering and safeguarding peace through commemoration. Today’s national peace and tranquil years are the “hard-won” gift exchanged by countless martyrs with their lives. In this happiness lies the belief we must uphold:</p>
-<ul>
-<li><strong>Peace is the most precious gift</strong>. Having experienced the ravages of war, we better understand the value of tranquility. Every ordinary day of stable life is a treasure that we need to cherish and defend with action, tolerating no slack or carelessness.</li>
-<li><strong>History is the spiritual backbone of the nation</strong>. Those heroic stories engraved in mountains and rivers, the spirit of resistance flowing in our bloodline, are the confidence for the Chinese nation to weather storms and forge ahead. Forgetting history equals severing the spiritual genes of the nation; remembering history keeps the nation’s backbone forever upright.</li>
-<li><strong>Self-strengthening is the foundation for safeguarding the future</strong>. The victory 80 years ago tells us that only through unity and self-improvement can we resist risks and control our destiny. Today, we need to learn from history, strive in our respective positions, and use national prosperity and national rejuvenation to build a solid foundation for peace, making the bright future increasingly stable through generations.</li>
-</ul>
-<p>Eighty years have passed, mountains and rivers have taken on a new appearance, but the echoes of that history have never faded. Let us move forward with commemoration for martyrs, cherishing peace, and expectations for the future — with the youth of our generation, protecting prosperous China, letting the torch of peace pass on forever, and the spirit of the nation continue through generations.</p>
-<p>🕯️ <strong>Let us jointly remember history, pay tribute to heroes, cherish peace, and create a better future!</strong> 🕊️</p>
-]]></content>
-      <categories>
-        <category>Essays</category>
-      </categories>
-      <tags>
-        <tag>Anti-Japanese War Memorial Day</tag>
-        <tag>History</tag>
-        <tag>Peace</tag>
       </tags>
   </entry>
 </search>
